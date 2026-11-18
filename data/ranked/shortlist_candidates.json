@@ -1,7 +1,53 @@
 [
  {
+  "cianId": 161649740,
+  "fullUrl": "https://www.cian.ru/rent/flat/161649740/?context=4.4Ip8r4MHzdI.FURKYSLepPTBYz_TA3Ab3FkI3rm6cLA-k8kywKU2SJX-nz4138cFRZczqYqKQ5Cbf2wMFlIOrMXhYg&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 69999,
+  "totalArea": "34.0",
+  "floorNumber": 3,
+  "floorsCount": 6,
+  "materialType": "brick",
+  "buildYear": 1948,
+  "address": "Москва, ЦАО, р-н Басманный, м. Чистые пруды, Мясницкая улица, 40А",
+  "okrug": "ЦАО",
+  "lat": 55.766466,
+  "lng": 37.640668,
+  "rejected": false,
+  "components": {
+   "location": 0.9806554953178905,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.48470532791060994
+  },
+  "bonus": 0.05,
+  "flags": [],
+  "tags": [
+   "парк",
+   "stalinka",
+   "soviet_ensemble"
+  ],
+  "soft_reject": null,
+  "price_ratio": 1.0612536883575603,
+  "total": 1.0,
+  "noise": {
+   "noise_dist": 12643.548876606308,
+   "rail_dist": 955.5468633089353,
+   "primary_dist": 456.43219447060244
+  },
+  "move_in_cost": 186997.4,
+  "metro": "Сретенский бульвар",
+  "metro_walk": 4,
+  "job_p50": 34.22718811035156,
+  "job_share30": 0.37183842959607344,
+  "park_walk": 8.443052121165959,
+  "culture25": 259,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
   "cianId": 194394424,
-  "fullUrl": "https://www.cian.ru/rent/flat/194394424/?context=4.ligGuCIyhVg.bdzIycVZgQTW9seDtn6a76eqO_0ef-saAJG1Pq9UwGbzO4at4Q21RAzY1V0xF4J6YjNN2QOx8eN2IQ&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
+  "fullUrl": "https://www.cian.ru/rent/flat/194394424/?context=4.N-e-N46GYtI.xpEfPGwgxEEEXsrABhxON12P_x8vmwGEf2hJGNCnvcqHUObAiOfxzD9Y3BdqYvVDYXFoFPohTsieAw&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
   "price": 65000,
   "totalArea": "60.0",
   "floorNumber": 4,
@@ -18,7 +64,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.6415968899521531
+   "price_value": 0.6452742378810595
   },
   "bonus": 0.1,
   "flags": [],
@@ -28,7 +74,7 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8086124401913874,
+  "price_ratio": 0.793903048475762,
   "total": 1.0,
   "noise": {
    "noise_dist": 8483.230559448148,
@@ -46,8 +92,53 @@
   "duplicates": []
  },
  {
+  "cianId": 213878949,
+  "fullUrl": "https://www.cian.ru/rent/flat/213878949/?context=4.llxG3mVaYCA.8t06I4Fq2vbOFYHfshLk9nGacz1ZWPHAPT1z8C9lPaidfmCQeM-dw9yPZmEuXS7jccQ0nGJYvqFWkg&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 60000,
+  "totalArea": "40.0",
+  "floorNumber": 2,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 1974,
+  "address": "Москва, ЦАО, р-н Мещанский, м. Проспект Мира, улица Гиляровского, 36С1",
+  "okrug": "ЦАО",
+  "lat": 55.782274,
+  "lng": 37.632457,
+  "rejected": false,
+  "components": {
+   "location": 0.9801626416954164,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 0.7,
+   "price_value": 0.7695054945054944
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "парк",
+   "кирпич"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.8076923076923077,
+  "total": 1.0,
+  "noise": {
+   "noise_dist": 12155.139338813824,
+   "rail_dist": 735.4173805172474,
+   "primary_dist": 88.13724555270903
+  },
+  "move_in_cost": 180000.0,
+  "metro": "Проспект Мира",
+  "metro_walk": 2,
+  "job_p50": 35.38792037963867,
+  "job_share30": 0.3780671951679874,
+  "park_walk": 8.566921079374898,
+  "culture25": 192,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
   "cianId": 320833713,
-  "fullUrl": "https://www.cian.ru/rent/flat/320833713/?context=4.Kr7k1MKOblk.hwbX3pmtoUJPIQtpOd_rKlVd9eRudyb57lBcpylicqaydd2mFQnRsev5sfqGCeJXiOt2cSUgISmOrA&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
+  "fullUrl": "https://www.cian.ru/rent/flat/320833713/?context=4.42gavKgHsTs.Uvc8iyWsv-xAp4YL1VsiTkOjtguYh35ocBTz17guoao5Dhm1efMZg70hOG_8WJspaaNftBMIxsQ24g&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "44.0",
   "floorNumber": 10,
@@ -64,7 +155,7 @@
    "building": 1.0,
    "floor": 0.6,
    "quiet": 1.0,
-   "price_value": 0.7434478294291378
+   "price_value": 0.7488695414349531
   },
   "bonus": 0.15000000000000002,
   "flags": [
@@ -75,7 +166,7 @@
    "парк"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9119229679977345,
+  "price_ratio": 0.8902361199744735,
   "total": 1.0,
   "noise": {
    "noise_dist": 3801.7754287312755,
@@ -94,8 +185,8 @@
  },
  {
   "cianId": 332613699,
-  "fullUrl": "https://www.cian.ru/rent/flat/332613699/?context=4.RqN1hRKk9Rg.P6RAU3ZUhJELWefz8G5LiWp5bVNS_-yCp6xPVRIgIPcfo3FcHo-SjKPHFq7XriRdXEjZT5Ozm4oyYw&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
-  "price": 65000,
+  "fullUrl": "https://www.cian.ru/rent/flat/332613699/?context=4.KL2WwD4Fr_M.gu0iewFsLjC5tNC8eq0kEf87BbLBeW4m08sKPoNjJfHM-RNzkocvCQKIuNH_NuHdK0s95rCN2ZTzsg&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 70000,
   "totalArea": "54.0",
   "floorNumber": 7,
   "floorsCount": 8,
@@ -111,24 +202,25 @@
    "building": 1.0,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.62774075278139
+   "price_value": 0.5176235110330014
   },
   "bonus": 0.15000000000000002,
   "flags": [
    "owner"
   ],
   "tags": [
+   "парк",
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8640369888744401,
+  "price_ratio": 0.9295059558679946,
   "total": 1.0,
   "noise": {
    "noise_dist": 7696.693858453159,
    "rail_dist": 1128.7188400503019,
    "primary_dist": 1167.269503201994
   },
-  "move_in_cost": 162500.0,
+  "move_in_cost": 175000.0,
   "metro": "Багратионовская",
   "metro_walk": 5,
   "job_p50": 49.00803756713867,
@@ -140,7 +232,7 @@
  },
  {
   "cianId": 333415918,
-  "fullUrl": "https://www.cian.ru/rent/flat/333415918/?context=4.gvAZO2-FTkI.nIgTXPCHyun7y6Dc3dANh-D_Y95nL0GoQKXl8lDowd3GTOcRGYUhmmCqULtgqTN1Kg5t9hxWPVB0lQ&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
+  "fullUrl": "https://www.cian.ru/rent/flat/333415918/?context=4.fzIfPKTOkK8.qSBIVqCY8jeYPTePJYRGz4K-_WC670b2jXGqBQIOqvACGfXLX6dYjg-MQVCiwJLKq7f67s0TO3xcQA&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
   "price": 55000,
   "totalArea": "46.0",
   "floorNumber": 2,
@@ -157,7 +249,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.9180602006688963
+   "price_value": 0.9145184437121292
   },
   "bonus": 0.05,
   "flags": [],
@@ -166,7 +258,7 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8277591973244148,
+  "price_ratio": 0.8419262251514831,
   "total": 1.0,
   "noise": {
    "noise_dist": 6186.363852791896,
@@ -202,7 +294,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.6015139751552795
+   "price_value": 0.5949990698416072
   },
   "bonus": 0.1,
   "flags": [],
@@ -210,7 +302,7 @@
    "парк"
   ],
   "soft_reject": null,
-  "price_ratio": 0.968944099378882,
+  "price_ratio": 0.9950037206335709,
   "total": 1.0,
   "noise": {
    "noise_dist": 12531.744675163367,
@@ -229,7 +321,7 @@
  },
  {
   "cianId": 335144120,
-  "fullUrl": "https://www.cian.ru/rent/flat/335144120/?context=4.zZlZEycI5ug.nmFlOsxqZjMl9KWnV4MvQ7cVPbT-K9yTWVx0UIbmP4TC_KxrPBvd-uYmhbsaLoH9FbJxv7jorIRMhA&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
+  "fullUrl": "https://www.cian.ru/rent/flat/335144120/?context=4.gVKx9vuU1xc.91bU-Vxdnc3zYkRbycMQ8mzAbL4rJPpOfjELPa6_TrPHIpBKep7y_HPPjGcj9Gf80y-1hxkJdK8C4A&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 68000,
   "totalArea": "38.3",
   "floorNumber": 3,
@@ -246,7 +338,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5220377918447189
+   "price_value": 0.520418371774634
   },
   "bonus": 0.1,
   "flags": [],
@@ -258,7 +350,7 @@
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 1.0618488326211246,
+  "price_ratio": 1.068326512901464,
   "total": 1.0,
   "noise": {
    "noise_dist": 8478.361637275064,
@@ -294,7 +386,7 @@
    "building": 1.0,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.6360915738392703
+   "price_value": 0.6369010193961046
   },
   "bonus": 0.1,
   "flags": [],
@@ -305,7 +397,7 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8306337046429189,
+  "price_ratio": 0.8273959224155817,
   "total": 1.0,
   "noise": {
    "noise_dist": 11595.26973618663,
@@ -341,13 +433,13 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.7505850196962938
+   "price_value": 0.7500587725939838
   },
   "bonus": 0.1,
   "flags": [],
   "tags": [],
   "soft_reject": null,
-  "price_ratio": 0.8833742069291105,
+  "price_ratio": 0.8854791953383503,
   "total": 1.0,
   "noise": {
    "noise_dist": 13002.553148074683,
@@ -410,7 +502,7 @@
  },
  {
   "cianId": 335511985,
-  "fullUrl": "https://www.cian.ru/rent/flat/335511985/?context=4.pHCTvDxXQ5U.v1Sz7OGLy8ewA3SdGPZzAbhrfgbmUeVubVPWbFH7A84p7beo481LuI65TlEwon3eKReXLDjAESaNxg&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
+  "fullUrl": "https://www.cian.ru/rent/flat/335511985/?context=4.PhK7LR0TCbI.I1r_4jYKC7A6dmZorhhsbDoNn8qYhrrkBzkNUZBjN4Ix2oApLB_g18Y1M_6bJ7gYjAtAJUoS7QIFLQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
   "totalArea": "40.5",
   "floorNumber": 3,
@@ -427,7 +519,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5137445599076295
+   "price_value": 0.5190340674750474
   },
   "bonus": 0.15000000000000002,
   "flags": [
@@ -437,7 +529,7 @@
    "собственник"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9450217603694822,
+  "price_ratio": 0.9238637300998103,
   "total": 1.0,
   "noise": {
    "noise_dist": 7477.281597373322,
@@ -456,7 +548,7 @@
  },
  {
   "cianId": 335854054,
-  "fullUrl": "https://www.cian.ru/rent/flat/335854054/?context=4.Mj_yyRyGa-s._qAH6Us0Bvx_8ki1ilq8aiOQLtSrdbZAW6Xg52Iqkn39Aq_ohPFv1bYkmSMnyrIKtYJ4VvHpfups0g&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
+  "fullUrl": "https://www.cian.ru/rent/flat/335854054/?context=4.0hepgwpm2E4.wEV0Z9GzlQkPGNiedSOb0fTbxRxGvIuNx2CWV8_2VP27vYo6cci1eC3Q5lNUT9DRr-G7CdUcgDVxOQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 68000,
   "totalArea": "44.0",
   "floorNumber": 5,
@@ -473,7 +565,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5722322720694645
+   "price_value": 0.5730713784285213
   },
   "bonus": 0.1,
   "flags": [],
@@ -484,7 +576,7 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8610709117221419,
+  "price_ratio": 0.857714486285915,
   "total": 1.0,
   "noise": {
    "noise_dist": 11595.26973618663,
@@ -520,7 +612,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.4963915528431658
+   "price_value": 0.4950331125827815
   },
   "bonus": 0.1,
   "flags": [],
@@ -531,7 +623,7 @@
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 1.014433788627337,
+  "price_ratio": 1.019867549668874,
   "total": 1.0,
   "noise": {
    "noise_dist": 12217.823939235766,
@@ -550,7 +642,7 @@
  },
  {
   "cianId": 336375615,
-  "fullUrl": "https://www.cian.ru/rent/flat/336375615/?context=4.9tqYfWqCr_w.yaOO9iYG2sQVVPTPGjwmCYGJ6fP-mQhw9kw0SKteRdL1sjKRuEjla1vIqHoPoXfWg-rijdL5Ked2xQ&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "fullUrl": "https://www.cian.ru/rent/flat/336375615/?context=4.TczOFiHwUjY.IkRVQj0emvBQiMQGDicv474xl_tCv5U_vgoUDSoMU20Aht7pMWXxwDGC7VAnMDVXPRT7V7lz6HdLow&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "34.0",
   "floorNumber": 4,
@@ -567,7 +659,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.7508403361344538
+   "price_value": 0.741318069353374
   },
   "bonus": 0.05,
   "flags": [],
@@ -577,8 +669,8 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8823529411764706,
-  "total": 0.99992287254971,
+  "price_ratio": 0.9204420083007897,
+  "total": 0.998018419193494,
   "noise": {
    "noise_dist": 6583.162126080422,
    "rail_dist": 574.8067762880291,
@@ -596,7 +688,7 @@
  },
  {
   "cianId": 330693196,
-  "fullUrl": "https://www.cian.ru/rent/flat/330693196/?context=4.D0FIrI3_Vl0.GV06_ZfBWAASjnOw407kg0Nsj735FNZJm8GmrJFQn9bIG_02W-ejIC9mD7JCJUbyXJFsHu7DOOk4jg&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
+  "fullUrl": "https://www.cian.ru/rent/flat/330693196/?context=4.HEt_ii_Y6sk.6W4osJThdKB1nbIlgNEUxwTlmngpfviBnsERTWb--hdxGJz5OwgEDzwiFVFPALXCRlIR8aQoGWvbaA&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
   "totalArea": "40.0",
   "floorNumber": 4,
@@ -640,6 +732,51 @@
   "duplicates": []
  },
  {
+  "cianId": 335456925,
+  "fullUrl": "https://www.cian.ru/rent/flat/335456925/?context=4.B81UQHbjDyM.DoDw5WGFCpFqj4eRHafACsEn7t766iXON7bQTNo_93Yd-PzlthsDug4LTchfPCu3pc3ufzk6vJ3-KQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 68000,
+  "totalArea": "38.0",
+  "floorNumber": 2,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 1964,
+  "address": "Москва, САО, р-н Аэропорт, м. Петровский Парк, улица Верхняя Масловка, 11",
+  "okrug": "САО",
+  "lat": 55.793045,
+  "lng": 37.563646,
+  "rejected": false,
+  "components": {
+   "location": 0.9520699852143913,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.5630857720086
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "собственник",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.8976569119656,
+  "total": 0.995841649226757,
+  "noise": {
+   "noise_dist": 11092.87123603585,
+   "rail_dist": 1349.2043803021056,
+   "primary_dist": 569.6294273677514
+  },
+  "move_in_cost": 170000.0,
+  "metro": "Петровский Парк",
+  "metro_walk": 6,
+  "job_p50": 42.110565185546875,
+  "job_share30": 0.15902227255568135,
+  "park_walk": 4.70205978638735,
+  "culture25": 26,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
   "cianId": 335279005,
   "fullUrl": "https://www.cian.ru/rent/flat/335279005/?context=4.XR46FqSDRCU.HQx_HWb2OiAoNfxOKFLudP8t6dVjnHiJS41Gp2yjcaq7qHngv1wWPONjpaj5vN3PZIc8rjd5VBd7-A&mlSearchSessionGuid=11d1fe035181602b4868ff262f3d2b2e",
   "price": 58000,
@@ -658,7 +795,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.8206801960516417
+   "price_value": 0.808500181416367
   },
   "bonus": 0.1,
   "flags": [],
@@ -667,8 +804,8 @@
    "парк"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8887077872220052,
-  "total": 0.9959990259032806,
+  "price_ratio": 0.9374278457631032,
+  "total": 0.9935630229762257,
   "noise": {
    "noise_dist": 9381.147535444541,
    "rail_dist": 395.42444551684264,
@@ -682,51 +819,6 @@
   "park_walk": 13.78829824396106,
   "culture25": 9,
   "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 335456925,
-  "fullUrl": "https://www.cian.ru/rent/flat/335456925/?context=4.diBu0pJrDFs.ti1tgYULHmxPKaaJ1h7ohjVL2prDx1mBgMsVdsiT7KbKKgpiaMAWR7GBp6UFi8lHkqSBVeiwVnEXUg&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
-  "price": 68000,
-  "totalArea": "38.0",
-  "floorNumber": 2,
-  "floorsCount": 9,
-  "materialType": "brick",
-  "buildYear": 1964,
-  "address": "Москва, САО, р-н Аэропорт, м. Петровский Парк, улица Верхняя Масловка, 11",
-  "okrug": "САО",
-  "lat": 55.793045,
-  "lng": 37.563646,
-  "rejected": false,
-  "components": {
-   "location": 0.9520699852143913,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.5532416267942584
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "собственник",
-   "парк"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.9370334928229664,
-  "total": 0.9938728201838887,
-  "noise": {
-   "noise_dist": 11092.87123603585,
-   "rail_dist": 1349.2043803021056,
-   "primary_dist": 569.6294273677514
-  },
-  "move_in_cost": 170000.0,
-  "metro": "Петровский Парк",
-  "metro_walk": 6,
-  "job_p50": 42.110565185546875,
-  "job_share30": 0.15902227255568135,
-  "park_walk": 4.70205978638735,
-  "culture25": 26,
-  "tier": "B",
   "duplicates": []
  },
  {
@@ -748,7 +840,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.7738013738428452
+   "price_value": 0.7806593406593406
   },
   "bonus": 0.1,
   "flags": [],
@@ -756,8 +848,8 @@
    "собственник"
   ],
   "soft_reject": null,
-  "price_ratio": 0.7905087903429048,
-  "total": 0.9889088701357449,
+  "price_ratio": 0.7630769230769232,
+  "total": 0.990280463499044,
   "noise": {
    "noise_dist": 12711.710430379253,
    "rail_dist": 655.8148957492056,
@@ -792,14 +884,14 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 0.7,
-   "price_value": 0.7619584077249981
+   "price_value": 0.7581087822088393
   },
   "bonus": 0.1,
   "flags": [],
   "tags": [],
   "soft_reject": null,
-  "price_ratio": 0.8378806548142933,
-  "total": 0.9879855701600808,
+  "price_ratio": 0.8532791568789284,
+  "total": 0.9872156450568491,
   "noise": {
    "noise_dist": 13132.973859603035,
    "rail_dist": 1003.8137179309266,
@@ -816,8 +908,54 @@
   "duplicates": []
  },
  {
+  "cianId": 263852044,
+  "fullUrl": "https://www.cian.ru/rent/flat/263852044/?context=4.6DbIUlUnBiA.3Cq81hddKD3P83ir67BxJa85769d1WqPEJSrjEAwN9Bc4TCPqhOv1NafPIwvm7vloRXLeaiG_NmbUQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 70000,
+  "totalArea": "37.0",
+  "floorNumber": 3,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 2006,
+  "address": "Москва, ЦАО, р-н Замоскворечье, м. Серпуховская, Дубининская улица, 40",
+  "okrug": "ЦАО",
+  "lat": 55.725042,
+  "lng": 37.635161,
+  "rejected": false,
+  "components": {
+   "location": 0.9594627895515032,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.49532224532224534
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "собственник",
+   "парк",
+   "кирпич"
+  ],
+  "soft_reject": null,
+  "price_ratio": 1.0187110187110187,
+  "total": 0.9848764254074752,
+  "noise": {
+   "noise_dist": 12542.279476484777,
+   "rail_dist": 383.1276811002598,
+   "primary_dist": 549.283907256868
+  },
+  "move_in_cost": 196000.0,
+  "metro": "Серпуховская",
+  "metro_walk": 8,
+  "job_p50": 40.94480514526367,
+  "job_share30": 0.1728954322385804,
+  "park_walk": 12.811041604821158,
+  "culture25": 105,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
   "cianId": 333437761,
-  "fullUrl": "https://www.cian.ru/rent/flat/333437761/?context=4.daEvyLOqino.XJfczpPDxrUfEl99GqX9tf1vf3GeHTqvSvesI45zdPd201fCUKL3G1x1pVzce_dxvmoaiMe_3Cu9pQ&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
+  "fullUrl": "https://www.cian.ru/rent/flat/333437761/?context=4.yiV_Jg48evw._J7FX2jlqcfRD_A26v_7kZvntq4VLvtQ10LTd_BzVUGG-lil5uI9iysJEGD81VKNUUaFzJpPIE1Raw&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "44.0",
   "floorNumber": 3,
@@ -834,7 +972,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 0.7,
-   "price_value": 0.7701803082910574
+   "price_value": 0.7675408193093081
   },
   "bonus": 0.1,
   "flags": [],
@@ -843,8 +981,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8049930525500558,
-  "total": 0.9822125032550572,
+  "price_ratio": 0.8155510084770535,
+  "total": 0.9816846054587073,
   "noise": {
    "noise_dist": 10073.814176939977,
    "rail_dist": 548.1179949313713,
@@ -879,7 +1017,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.7444859031723668
+   "price_value": 0.7406593406593407
   },
   "bonus": 0.05,
   "flags": [],
@@ -888,8 +1026,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9077706730248184,
-  "total": 0.9817766779237784,
+  "price_ratio": 0.923076923076923,
+  "total": 0.9810113654211733,
   "noise": {
    "noise_dist": 12494.853230997522,
    "rail_dist": 829.4130893324689,
@@ -906,52 +1044,8 @@
   "duplicates": []
  },
  {
-  "cianId": 336364477,
-  "fullUrl": "https://www.cian.ru/rent/flat/336364477/?context=4.6HZgPkdhb1Y.y6gUjfCKtZ1Ga_9ejGAy5MRMAjBi55FpDiwd3T3c7uZHqJni6jS-_MXi4IaOp6BuMmT8xAnqJRVyNw&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
-  "price": 65000,
-  "totalArea": "42.4",
-  "floorNumber": 4,
-  "floorsCount": 16,
-  "materialType": "brick",
-  "buildYear": 2001,
-  "address": "Москва, СВАО, р-н Свиблово, м. Свиблово, Снежная улица, 23",
-  "okrug": "СВАО",
-  "lat": 55.855987,
-  "lng": 37.650343,
-  "rejected": false,
-  "components": {
-   "location": 0.870133070478068,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.6317903490123129
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "парк"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.8478386039507485,
-  "total": 0.9809046444697863,
-  "noise": {
-   "noise_dist": 4454.132908158686,
-   "rail_dist": 1233.1131632661627,
-   "primary_dist": 1175.0940014168502
-  },
-  "move_in_cost": 162500.0,
-  "metro": "Свиблово",
-  "metro_walk": 3,
-  "job_p50": 47.042091369628906,
-  "job_share30": 0.0983389958474896,
-  "park_walk": 9.743840855474343,
-  "culture25": 9,
-  "tier": "B",
-  "duplicates": []
- },
- {
   "cianId": 335445591,
-  "fullUrl": "https://www.cian.ru/rent/flat/335445591/?context=4.5wEDEl0_PR0.vGFzS5sk0V1BtK33vsAM7f2Lipf4GUrA2QScJy0wsV5FwirxmE_ObczmSGkuBjq_rinCQc5G5NBbfg&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
+  "fullUrl": "https://www.cian.ru/rent/flat/335445591/?context=4.1Qi0oxpSDes.LSrFhvxQeleirck-sjUTy_JUV7jRJOv8CMUnarVrCg1jZ5XAvxPRkpVBWKTjU-kRfS6vMZFW8MvVOA&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
   "price": 63000,
   "totalArea": "40.0",
   "floorNumber": 5,
@@ -968,7 +1062,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 0.9,
-   "price_value": 0.6715786384976525
+   "price_value": 0.6692307692307693
   },
   "bonus": 0.1,
   "flags": [],
@@ -977,8 +1071,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8386854460093897,
-  "total": 0.978907891326933,
+  "price_ratio": 0.8480769230769231,
+  "total": 0.9784383174735564,
   "noise": {
    "noise_dist": 10714.901965507386,
    "rail_dist": 144.32802066294482,
@@ -995,8 +1089,52 @@
   "duplicates": []
  },
  {
+  "cianId": 336364477,
+  "fullUrl": "https://www.cian.ru/rent/flat/336364477/?context=4.F95nm5YttCc.unoELSkhszUq0FWFmExR5f7zdP0Ku2ON0dJeX6vwusmT17Q4yYKmxaP-mY0Odtt-749_M07DwLcEZQ&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 65000,
+  "totalArea": "42.4",
+  "floorNumber": 4,
+  "floorsCount": 16,
+  "materialType": "brick",
+  "buildYear": 2001,
+  "address": "Москва, СВАО, р-н Свиблово, м. Свиблово, Снежная улица, 23",
+  "okrug": "СВАО",
+  "lat": 55.855987,
+  "lng": 37.650343,
+  "rejected": false,
+  "components": {
+   "location": 0.870133070478068,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.6167835702033815
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.907865719186474,
+  "total": 0.977903288708,
+  "noise": {
+   "noise_dist": 4454.132908158686,
+   "rail_dist": 1233.1131632661627,
+   "primary_dist": 1175.0940014168502
+  },
+  "move_in_cost": 162500.0,
+  "metro": "Свиблово",
+  "metro_walk": 3,
+  "job_p50": 47.042091369628906,
+  "job_share30": 0.0983389958474896,
+  "park_walk": 9.743840855474343,
+  "culture25": 9,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
   "cianId": 336494259,
-  "fullUrl": "https://www.cian.ru/rent/flat/336494259/?context=4.Z8K8hxjE154.EIGML3ZkQXKvhA1nEf6AMWLpI-iW0Pir4drUx72rTEbWmE1TN3eTucz7sn03qOHP4JJtnwKEss37dg&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "fullUrl": "https://www.cian.ru/rent/flat/336494259/?context=4._VoBv1SkwEg._j1Z1RV5P-O3W2ePplU2yFVYTmw7y1Dtz9YEU-1BNLegdcQvyLV134cmNUZCCgWQlP78Is-SFnCtFw&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
   "totalArea": "40.0",
   "floorNumber": 8,
@@ -1013,7 +1151,7 @@
    "building": 1.0,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.5166666666666666
+   "price_value": 0.5155502392344498
   },
   "bonus": 0.1,
   "flags": [],
@@ -1022,14 +1160,14 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9333333333333333,
-  "total": 0.9741453096763594,
+  "price_ratio": 0.9377990430622011,
+  "total": 0.973922024189916,
   "noise": {
    "noise_dist": 12547.922612534989,
    "rail_dist": 365.8556221947423,
    "primary_dist": 572.9022597667265
   },
-  "move_in_cost": 140000.0,
+  "move_in_cost": 175000.0,
   "metro": "Серпуховская",
   "metro_walk": 8,
   "job_p50": 40.94480514526367,
@@ -1041,7 +1179,7 @@
  },
  {
   "cianId": 177295192,
-  "fullUrl": "https://www.cian.ru/rent/flat/177295192/?context=4.woQBwW7l4Z8.aXw1t1lUgSs2tVfB4Wel7OUyif-Ss27mt1CSqfJY-bVM3KjlD1rAJvJVr7KnoXFDM9lQAljjaP-T0g&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
+  "fullUrl": "https://www.cian.ru/rent/flat/177295192/?context=4.BSremxZCDWM.rk5jPochzsebDHBZ7-5NVJf_aqxCkNn2UtaerUU4bJAmVr2CHcRnDP1ISuS8bH6tW94LBcdeEgl2WA&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 67000,
   "totalArea": "37.0",
   "floorNumber": 14,
@@ -1086,7 +1224,7 @@
  },
  {
   "cianId": 336139088,
-  "fullUrl": "https://www.cian.ru/rent/flat/336139088/?context=4.-hCjq4gv5w4.wG1kjpADmzb_X35oyh7iaiUT-y7Y3ghgN-lKKCEgki0aIEcRbJQNJniT1zJ5cub40jbOLXNV-sc1tg&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
+  "fullUrl": "https://www.cian.ru/rent/flat/336139088/?context=4.KPBez_OtrV4.GR7oLS1uLIr3wmGPq9hCVdp8zXBKZW4k_kP9iXYS0HtioV1Bpqogclj5SuyixZlGDZeoB5HyOTyiDw&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
   "price": 55000,
   "totalArea": "36.0",
   "floorNumber": 3,
@@ -1116,7 +1254,7 @@
    "rail_dist": 412.939160008163,
    "primary_dist": 68.7922554614197
   },
-  "move_in_cost": 143000.0,
+  "move_in_cost": 137500.0,
   "metro": "Марьина Роща",
   "metro_walk": 8,
   "job_p50": 42.94746398925781,
@@ -1128,7 +1266,7 @@
  },
  {
   "cianId": 335951969,
-  "fullUrl": "https://www.cian.ru/rent/flat/335951969/?context=4.n2w-HbpuXeo.fHAS1V78DANOKwFCRxcpPNQyjliM9Dw15pDHdzuAaVYFy8QbVWthwuhgHfPjkIx_Xq3AszBzRl-Fzw&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
+  "fullUrl": "https://www.cian.ru/rent/flat/335951969/?context=4.t1lnliRDAaA.b3c2p6dL76IgMtdThYyuvIMzeUN0wSHQCIZbbktelRS9nZYK_XOeP7U3VR3DwwawcFCSY0n7QGmluQ&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
   "price": 55000,
   "totalArea": "44.0",
   "floorNumber": 3,
@@ -1145,7 +1283,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.8902333621434745
+   "price_value": 0.8913373860182371
   },
   "bonus": 0.1,
   "flags": [],
@@ -1156,8 +1294,8 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9390665514261021,
-  "total": 0.9671496788357921,
+  "price_ratio": 0.9346504559270516,
+  "total": 0.9673704836107446,
   "noise": {
    "noise_dist": 2697.450028123121,
    "rail_dist": 3284.950026693669,
@@ -1171,54 +1309,6 @@
   "park_walk": 4.584506140038146,
   "culture25": 5,
   "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 335545996,
-  "fullUrl": "https://www.cian.ru/rent/flat/335545996/?context=4.X-md1YU2wX4.jVXrt1HTX5BOZh8MdSzyrgU79YE8TQff_aKruToxx50Y4FcTgi1OSdedQDKd5J361VaUedyOknJNdg&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
-  "price": 65000,
-  "totalArea": "35.0",
-  "floorNumber": 6,
-  "floorsCount": 10,
-  "materialType": "brick",
-  "buildYear": 1957,
-  "address": "Москва, САО, р-н Сокол, м. Сокол, Ленинградский проспект, 75Б",
-  "okrug": "САО",
-  "lat": 55.80398,
-  "lng": 37.511499,
-  "rejected": false,
-  "components": {
-   "location": 0.8883686545096107,
-   "building": 1.0,
-   "floor": 0.85,
-   "quiet": 1.0,
-   "price_value": 0.6036552880820837
-  },
-  "bonus": 0.0,
-  "flags": [],
-  "tags": [
-   "собственник",
-   "тихий",
-   "парк",
-   "stalinka",
-   "soviet_ensemble"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.9603788476716654,
-  "total": 0.9666600866947804,
-  "noise": {
-   "noise_dist": 7666.685991316619,
-   "rail_dist": 942.7471790977723,
-   "primary_dist": 151.9262679154968
-  },
-  "move_in_cost": 162500.0,
-  "metro": "Сокол",
-  "metro_walk": 4,
-  "job_p50": 48.1601448059082,
-  "job_share30": 0.07521706304265761,
-  "park_walk": 3.584168222054045,
-  "culture25": 17,
-  "tier": "B",
   "duplicates": []
  },
  {
@@ -1240,7 +1330,7 @@
    "building": 1.0,
    "floor": 0.6,
    "quiet": 1.0,
-   "price_value": 0.6795567729083665
+   "price_value": 0.6800577496274218
   },
   "bonus": 0.1,
   "flags": [
@@ -1250,8 +1340,8 @@
    "собственник"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8067729083665339,
-  "total": 0.9661121924328316,
+  "price_ratio": 0.804769001490313,
+  "total": 0.9662123877766426,
   "noise": {
    "noise_dist": 9327.09533865127,
    "rail_dist": 448.30816510732905,
@@ -1264,6 +1354,54 @@
   "job_share30": 0.11466591166477914,
   "park_walk": 0.18507008709674616,
   "culture25": 15,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 335545996,
+  "fullUrl": "https://www.cian.ru/rent/flat/335545996/?context=4.H5QIwJmARuA.CVOG4IiMabG0qwAVDmu5bZHxI9j0UiFLQSK7j6s45zG0ZEoivUeiRKXv1_HW-A1Y3LA3HV-oywhcZw&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 65000,
+  "totalArea": "35.0",
+  "floorNumber": 6,
+  "floorsCount": 10,
+  "materialType": "brick",
+  "buildYear": 1957,
+  "address": "Москва, САО, р-н Сокол, м. Сокол, Ленинградский проспект, 75Б",
+  "okrug": "САО",
+  "lat": 55.80398,
+  "lng": 37.511499,
+  "rejected": false,
+  "components": {
+   "location": 0.8883686545096107,
+   "building": 1.0,
+   "floor": 0.85,
+   "quiet": 1.0,
+   "price_value": 0.6001561499039078
+  },
+  "bonus": 0.0,
+  "flags": [],
+  "tags": [
+   "собственник",
+   "тихий",
+   "парк",
+   "stalinka",
+   "soviet_ensemble"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.974375400384369,
+  "total": 0.9659602590591452,
+  "noise": {
+   "noise_dist": 7666.685991316619,
+   "rail_dist": 942.7471790977723,
+   "primary_dist": 151.9262679154968
+  },
+  "move_in_cost": 162500.0,
+  "metro": "Сокол",
+  "metro_walk": 4,
+  "job_p50": 48.1601448059082,
+  "job_share30": 0.07521706304265761,
+  "park_walk": 3.584168222054045,
+  "culture25": 17,
   "tier": "B",
   "duplicates": []
  },
@@ -1286,7 +1424,7 @@
    "building": 0.9,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5981691441765609
+   "price_value": 0.6030601988997037
   },
   "bonus": 0.1,
   "flags": [
@@ -1298,8 +1436,8 @@
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9823234232937567,
-  "total": 0.964812488273459,
+  "price_ratio": 0.9627592044011849,
+  "total": 0.9657906992180876,
   "noise": {
    "noise_dist": 12284.049573755774,
    "rail_dist": 1509.8332839315635,
@@ -1317,7 +1455,7 @@
  },
  {
   "cianId": 336386820,
-  "fullUrl": "https://www.cian.ru/rent/flat/336386820/?context=4.qZcYsmZBVRg.AuZ1A8WYG9flsebm1-Hs7pE7i7m0px8TUwfzznh61h50xlKVZkeoBvjERl5bDOT8zqzQnWuB5EGmkw&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "fullUrl": "https://www.cian.ru/rent/flat/336386820/?context=4.iFw0m335JIs.fVrCaVmq4KybJEM1OcuCMb7ms56mskIwLJRtuR_Ol6bixy69tRjncAPt1zMwHpG80HJ6yNHgmAULZQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
   "totalArea": "65.9",
   "floorNumber": 5,
@@ -1334,7 +1472,7 @@
    "building": 0.65,
    "floor": 1.0,
    "quiet": 0.7,
-   "price_value": 0.5575654949059945
+   "price_value": 0.5645304795462445
   },
   "bonus": 0.15000000000000002,
   "flags": [
@@ -1347,8 +1485,8 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.7697380203760218,
-  "total": 0.9633021576307799,
+  "price_ratio": 0.741878081815022,
+  "total": 0.96469515455883,
   "noise": {
    "noise_dist": 6504.667863144398,
    "rail_dist": 410.87762987729764,
@@ -1365,8 +1503,101 @@
   "duplicates": []
  },
  {
+  "cianId": 336276300,
+  "fullUrl": "https://www.cian.ru/rent/flat/336276300/?context=4.cOVfo5SVB6s.eYPd8m9Tudu-qPoLDJCqqksOZhPaSDR70Ukc9MFS_LcJ94ql9zTqPNNZOjRapgQvoBAswR87swPdOA&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
+  "price": 56000,
+  "totalArea": "30.0",
+  "floorNumber": 3,
+  "floorsCount": 5,
+  "materialType": "brick",
+  "buildYear": 1958,
+  "address": "Москва, САО, р-н Хорошевский, м. Беговая, Хорошевское шоссе, 7С1",
+  "okrug": "САО",
+  "lat": 55.774831,
+  "lng": 37.537586,
+  "rejected": false,
+  "components": {
+   "location": 0.6187777230162642,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.9319940476190476
+  },
+  "bonus": 0.05,
+  "flags": [
+   "owner"
+  ],
+  "tags": [
+   "собственник",
+   "кирпич",
+   "stalinka"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.7291666666666667,
+  "total": 0.9629710125795021,
+  "noise": {
+   "noise_dist": 10011.273056510485,
+   "rail_dist": 383.0149059249297,
+   "primary_dist": 510.43600875046553
+  },
+  "move_in_cost": 56000.0,
+  "metro": "Беговая",
+  "metro_walk": 5,
+  "job_p50": 47.147178649902344,
+  "job_share30": 0.04916949792374482,
+  "park_walk": 19.81020692898636,
+  "culture25": 19,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 335917900,
+  "fullUrl": "https://www.cian.ru/rent/flat/335917900/?context=4.67CNtD2CM7Y.oRIDOpGrDxq1vqRgEVZFd3K8aaX8fIJ90BccKBwTVpH8tjboWyYGtZP1ipwGydoVUBM0rHZR4ZlV8Q&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
+  "price": 56000,
+  "totalArea": "36.0",
+  "floorNumber": 5,
+  "floorsCount": 16,
+  "materialType": null,
+  "buildYear": 1976,
+  "address": "Москва, ЦАО, р-н Мещанский, м. Марьина Роща, Олимпийский проспект, 28",
+  "okrug": "ЦАО",
+  "lat": 55.790565,
+  "lng": 37.623043,
+  "rejected": false,
+  "components": {
+   "location": 0.9466485953671759,
+   "building": 0.5,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.90682490641296
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "собственник",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.8298432314910174,
+  "total": 0.9626919896611036,
+  "noise": {
+   "noise_dist": 11872.51693738019,
+   "rail_dist": 728.5486303383553,
+   "primary_dist": 235.91671849518144
+  },
+  "move_in_cost": 112800.0,
+  "metro": "Марьина Роща",
+  "metro_walk": 8,
+  "job_p50": 43.1073112487793,
+  "job_share30": 0.1973386183465458,
+  "park_walk": 8.431840155583874,
+  "culture25": 37,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
   "cianId": 333355089,
-  "fullUrl": "https://www.cian.ru/rent/flat/333355089/?context=4.WfYMNgTOVcE.EKM4qZ6cOw0VqOP2O-73JCYrPz_WLxkIpob7a5hwBS18XUjJegMGTLIor14l8Vl3dq7I9GldGcAuJA&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
+  "fullUrl": "https://www.cian.ru/rent/flat/333355089/?context=4._157r2tFojQ.GejcbZBBHZgYhRPT9VbJX8XoepuTkpgp49ZU7gLiEsPTTnlPTyHykwpKSy7Si2Iy03bfa-_wwvyO5g&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "41.0",
   "floorNumber": 5,
@@ -1383,14 +1614,14 @@
    "building": 0.6,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.7702250980769827
+   "price_value": 0.7718318417990054
   },
   "bonus": 0.1,
   "flags": [],
   "tags": [],
   "soft_reject": null,
-  "price_ratio": 0.804813893406355,
-  "total": 0.960331367570054,
+  "price_ratio": 0.7983869185182639,
+  "total": 0.9606527163144586,
   "noise": {
    "noise_dist": 11870.396451416604,
    "rail_dist": 984.1952773891796,
@@ -1403,6 +1634,51 @@
   "job_share30": 0.1482634956587391,
   "park_walk": 8.15557549952605,
   "culture25": 61,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 335383133,
+  "fullUrl": "https://www.cian.ru/rent/flat/335383133/?context=4.rSK1vZD_o68.uz2VQQ8H5fWvBRgpQFJUN9AY94LmoIuEU1lZ5ZMxri8q9gT6BKuONoCb9-k1RCNlZ_v1gFO0vU8dYQ&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
+  "price": 57000,
+  "totalArea": "38.0",
+  "floorNumber": 2,
+  "floorsCount": 14,
+  "materialType": null,
+  "buildYear": 1986,
+  "address": "Москва, ЮВАО, р-н Лефортово, м. Лефортово, Солдатская улица, 8К2",
+  "okrug": "ЮВАО",
+  "lat": 55.76406,
+  "lng": 37.701655,
+  "rejected": false,
+  "components": {
+   "location": 0.9614342040413997,
+   "building": 0.5,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.8705422314911366
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "собственник",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.832116788321168,
+  "total": 0.9606104177127172,
+  "noise": {
+   "noise_dist": 8822.354626422524,
+   "rail_dist": 1181.116289840963,
+   "primary_dist": 570.260053772772
+  },
+  "move_in_cost": 142500.0,
+  "metro": "Лефортово",
+  "metro_walk": 4,
+  "job_p50": 40.176551818847656,
+  "job_share30": 0.19714986787466948,
+  "park_walk": 4.035890841841647,
+  "culture25": 17,
   "tier": "A",
   "duplicates": []
  },
@@ -1449,98 +1725,92 @@
   "duplicates": []
  },
  {
-  "cianId": 336276300,
-  "fullUrl": "https://www.cian.ru/rent/flat/336276300/?context=4.cOVfo5SVB6s.eYPd8m9Tudu-qPoLDJCqqksOZhPaSDR70Ukc9MFS_LcJ94ql9zTqPNNZOjRapgQvoBAswR87swPdOA&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
-  "price": 56000,
-  "totalArea": "30.0",
-  "floorNumber": 3,
-  "floorsCount": 5,
+  "cianId": 336019409,
+  "fullUrl": "https://www.cian.ru/rent/flat/336019409/?context=4.kGEuJjI8rWk.OawPXLvsvGfZm8OEib9GjZXrTdT9IadPt4vSNKYCYHBOmeBQP4-r7ObrjVAgSuEOrLSoWFfZ2afF9w&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
+  "price": 55000,
+  "totalArea": "40.0",
+  "floorNumber": 4,
+  "floorsCount": 14,
   "materialType": "brick",
-  "buildYear": 1958,
-  "address": "Москва, САО, р-н Хорошевский, м. Беговая, Хорошевское шоссе, 7С1",
-  "okrug": "САО",
-  "lat": 55.774831,
-  "lng": 37.537586,
+  "buildYear": 1973,
+  "address": "Москва, СВАО, р-н Бутырский, м. Тимирязевская, улица Яблочкова, 6А",
+  "okrug": "СВАО",
+  "lat": 55.815726,
+  "lng": 37.582421,
   "rejected": false,
   "components": {
-   "location": 0.6187777230162642,
+   "location": 0.6306062099556432,
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.9110070257611242
+   "price_value": 0.9398849607182941
   },
-  "bonus": 0.05,
-  "flags": [
-   "owner"
-  ],
+  "bonus": 0.1,
+  "flags": [],
   "tags": [
-   "собственник",
-   "кирпич",
-   "stalinka"
+   "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8131147540983605,
-  "total": 0.9587736082079175,
+  "price_ratio": 0.7404601571268238,
+  "total": 0.9586891656281339,
   "noise": {
-   "noise_dist": 10011.273056510485,
-   "rail_dist": 383.0149059249297,
-   "primary_dist": 510.43600875046553
+   "noise_dist": 9765.2031850816,
+   "rail_dist": 264.4688200040857,
+   "primary_dist": 345.4309536982871
   },
-  "move_in_cost": 56000.0,
-  "metro": "Беговая",
-  "metro_walk": 5,
-  "job_p50": 47.147178649902344,
-  "job_share30": 0.04916949792374482,
-  "park_walk": 19.81020692898636,
-  "culture25": 19,
+  "move_in_cost": 137500.0,
+  "metro": "Тимирязевская",
+  "metro_walk": 9,
+  "job_p50": 47.810909271240234,
+  "job_share30": 0.10475651189127973,
+  "park_walk": 15.409511450406319,
+  "culture25": 5,
   "tier": "A",
   "duplicates": []
  },
  {
-  "cianId": 336194818,
-  "fullUrl": "https://www.cian.ru/rent/flat/336194818/?context=4.MQbr55nusuY.JTjX4aP927Cx-WjXX7-ZBZYQbTBwbUGRy6C9hL-HpICAJMpf3Ig4HLLiY3xjQPUYN0vtA69jHTe9eg&mlSearchSessionGuid=7a72053715e1c155918b9b6a1b7eea60",
-  "price": 67100,
-  "totalArea": "36.0",
-  "floorNumber": 5,
+  "cianId": 335552862,
+  "fullUrl": "https://www.cian.ru/rent/flat/335552862/?context=4.eOZj6HpQcqA.KY5KgGMUaeEDkz4xj4AFfgPcHzD_Rq4EF1TrD3XHnkG6_415EwQ6FoEJWDVaZBmOvbqJsh3gueqcCw&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
+  "price": 55000,
+  "totalArea": "34.6",
+  "floorNumber": 3,
   "floorsCount": 5,
   "materialType": "brick",
-  "buildYear": 1960,
-  "address": "Москва, САО, р-н Хорошевский, м. Аэропорт, Ленинградский проспект, 45К3",
+  "buildYear": 1961,
+  "address": "Москва, САО, р-н Савеловский, м. Гражданская, улица Юннатов, 8А",
   "okrug": "САО",
-  "lat": 55.798475,
-  "lng": 37.532762,
+  "lat": 55.799902,
+  "lng": 37.561751,
   "rejected": false,
   "components": {
-   "location": 0.8693937900443568,
+   "location": 0.7900443568260227,
    "building": 1.0,
-   "floor": 0.9,
+   "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5647321428571428
+   "price_value": 0.9040204594927318
   },
-  "bonus": 0.1,
-  "flags": [
-   "lift_unknown"
-  ],
+  "bonus": 0.05,
+  "flags": [],
   "tags": [
-   "собственник",
-   "парк"
+   "парк",
+   "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9585714285714286,
-  "total": 0.9572342550869534,
+  "price_ratio": 0.8839181620290729,
+  "total": 0.9573196167876544,
   "noise": {
-   "noise_dist": 9084.097110221584,
-   "rail_dist": 1412.88289139769,
-   "primary_dist": 129.5430743177271
+   "noise_dist": 10842.198731700808,
+   "rail_dist": 580.4197432393815,
+   "primary_dist": 1094.9646831729688
   },
-  "move_in_cost": 114070.0,
-  "metro": "Аэропорт",
-  "metro_walk": 4,
-  "job_p50": 45.03589630126953,
-  "job_share30": 0.10881464703661757,
-  "park_walk": 17.045595142312884,
-  "culture25": 34,
-  "tier": "B",
+  "move_in_cost": 148500.0,
+  "metro": "Гражданская",
+  "metro_walk": 8,
+  "job_p50": 47.67317199707031,
+  "job_share30": 0.11155152887882218,
+  "park_walk": 4.624395096779355,
+  "culture25": 7,
+  "tier": "A",
   "duplicates": []
  },
  {
@@ -1562,7 +1832,7 @@
    "building": 1.0,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.5271937573616019
+   "price_value": 0.5257509001326511
   },
   "bonus": 0.1,
   "flags": [
@@ -1572,8 +1842,8 @@
    "собственник"
   ],
   "soft_reject": null,
-  "price_ratio": 1.0412249705535925,
-  "total": 0.9572327386581262,
+  "price_ratio": 1.0469963994693956,
+  "total": 0.956944167212336,
   "noise": {
    "noise_dist": 10302.117898786097,
    "rail_dist": 254.16038519893613,
@@ -1591,7 +1861,7 @@
  },
  {
   "cianId": 304008600,
-  "fullUrl": "https://www.cian.ru/rent/flat/304008600/?context=4._rbgPAjiFaI.l2tjq7f7LmyrkF9zdZkPD870vmQ8W5JuMQC778w9LW1cCWkQSiKZX93XiTku9kkSXntiU21P9POUtA&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
+  "fullUrl": "https://www.cian.ru/rent/flat/304008600/?context=4.j4nkZxe9Owk.PWKkIGpyANcfoy4MlKrtrgZs754FgT-CTqXbGN0T_kCDWB_5MzvgG6PPoSvvz7tV4odDSaX33G5pDg&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
   "totalArea": "36.0",
   "floorNumber": 10,
@@ -1608,7 +1878,7 @@
    "building": 0.75,
    "floor": 0.6,
    "quiet": 1.0,
-   "price_value": 0.4861546940198626
+   "price_value": 0.48456121343445285
   },
   "bonus": 0.15000000000000002,
   "flags": [
@@ -1616,8 +1886,8 @@
   ],
   "tags": [],
   "soft_reject": null,
-  "price_ratio": 1.0553812239205496,
-  "total": 0.9572309388039726,
+  "price_ratio": 1.0617551462621886,
+  "total": 0.9569122426868907,
   "noise": {
    "noise_dist": 13752.154910441423,
    "rail_dist": 1440.2406150381064,
@@ -1634,8 +1904,55 @@
   "duplicates": []
  },
  {
+  "cianId": 336194818,
+  "fullUrl": "https://www.cian.ru/rent/flat/336194818/?context=4.MQbr55nusuY.JTjX4aP927Cx-WjXX7-ZBZYQbTBwbUGRy6C9hL-HpICAJMpf3Ig4HLLiY3xjQPUYN0vtA69jHTe9eg&mlSearchSessionGuid=7a72053715e1c155918b9b6a1b7eea60",
+  "price": 67100,
+  "totalArea": "36.0",
+  "floorNumber": 5,
+  "floorsCount": 5,
+  "materialType": "brick",
+  "buildYear": 1960,
+  "address": "Москва, САО, р-н Хорошевский, м. Аэропорт, Ленинградский проспект, 45К3",
+  "okrug": "САО",
+  "lat": 55.798475,
+  "lng": 37.532762,
+  "rejected": false,
+  "components": {
+   "location": 0.8693937900443568,
+   "building": 1.0,
+   "floor": 0.9,
+   "quiet": 1.0,
+   "price_value": 0.5612590579710144
+  },
+  "bonus": 0.1,
+  "flags": [
+   "lift_unknown"
+  ],
+  "tags": [
+   "собственник",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.9724637681159422,
+  "total": 0.9565396381097276,
+  "noise": {
+   "noise_dist": 9084.097110221584,
+   "rail_dist": 1412.88289139769,
+   "primary_dist": 129.5430743177271
+  },
+  "move_in_cost": 114070.0,
+  "metro": "Аэропорт",
+  "metro_walk": 4,
+  "job_p50": 45.03589630126953,
+  "job_share30": 0.10881464703661757,
+  "park_walk": 17.045595142312884,
+  "culture25": 34,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
   "cianId": 335881658,
-  "fullUrl": "https://www.cian.ru/rent/flat/335881658/?context=4.ByJth4-8JBA.DhsWXPtfhxjj1s1WDWdKgVlYDqOVu9DkzswL20prdhtyYuTltub0CKdt7VIldLIPRf1GjCnI9mUwgA&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
+  "fullUrl": "https://www.cian.ru/rent/flat/335881658/?context=4.pvxfHubHrJ4.iK6sENVcgvyzMShkp4xdo6hQzA2azVfkwQCvbrqMHghMIawWzLX3EFjI1UXs5s-ehXFuX_Tfw7hG4A&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
   "totalArea": "40.0",
   "floorNumber": 7,
@@ -1652,7 +1969,7 @@
    "building": 1.0,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.425626204238921
+   "price_value": 0.42489586670938806
   },
   "bonus": 0.05,
   "flags": [],
@@ -1661,8 +1978,8 @@
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 1.297495183044316,
-  "total": 0.9532252901331464,
+  "price_ratio": 1.3004165331624478,
+  "total": 0.9530792226272399,
   "noise": {
    "noise_dist": 10527.735546189646,
    "rail_dist": 239.92519806026795,
@@ -1697,7 +2014,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.4722222222222222
+   "price_value": 0.45968364197530864
   },
   "bonus": 0.1,
   "flags": [
@@ -1707,8 +2024,8 @@
    "парк"
   ],
   "soft_reject": null,
-  "price_ratio": 1.1111111111111112,
-  "total": 0.9528722413887519,
+  "price_ratio": 1.1612654320987654,
+  "total": 0.9503645253393692,
   "noise": {
    "noise_dist": 10009.50277912256,
    "rail_dist": 464.2510796622757,
@@ -1722,6 +2039,314 @@
   "park_walk": 0.7130716514843795,
   "culture25": 12,
   "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 309981681,
+  "fullUrl": "https://www.cian.ru/rent/flat/309981681/?context=4.qQr8CXLQiJY.vEphe7mlnijwsB8Le60hTv1LPWWof3l5TtN_Gt2oH5aIl3AN3P7YIyEHbM0u1BHtN6kLg2PT9El5kw&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 60000,
+  "totalArea": "30.0",
+  "floorNumber": 3,
+  "floorsCount": 5,
+  "materialType": "brick",
+  "buildYear": 1962,
+  "address": "Москва, ВАО, р-н Измайлово, м. Измайловская, Измайловский проспект, 57",
+  "okrug": "ВАО",
+  "lat": 55.788611,
+  "lng": 37.781982,
+  "rejected": false,
+  "components": {
+   "location": 0.9224987678659439,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.6372246068356279
+  },
+  "bonus": 0.05,
+  "flags": [
+   "owner"
+  ],
+  "tags": [
+   "собственник",
+   "тихий",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 1.3368158583717742,
+  "total": 0.950319490120206,
+  "noise": {
+   "noise_dist": 3702.3025174369905,
+   "rail_dist": 2397.4319273526266,
+   "primary_dist": 2166.7279997486758
+  },
+  "move_in_cost": 120000.0,
+  "metro": "Измайловская",
+  "metro_walk": 2,
+  "job_p50": 45.803340911865234,
+  "job_share30": 0.11957342393355978,
+  "park_walk": 1.9007753112220733,
+  "culture25": 23,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 335382594,
+  "fullUrl": "https://www.cian.ru/rent/flat/335382594/?context=4.5mbTdmie4Wk.gb0mRaV7CEnIsb4vnlNcs-4OAWyt8rSZ2tm672is6pw12Ld0u8yOcQHvqauPteS263extcyBtTw_eQ&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 60000,
+  "totalArea": "38.0",
+  "floorNumber": 5,
+  "floorsCount": 12,
+  "materialType": "block",
+  "buildYear": 1965,
+  "address": "Москва, СВАО, р-н Алексеевский, м. Алексеевская, Новоалексеевская улица, 7",
+  "okrug": "СВАО",
+  "lat": 55.808179,
+  "lng": 37.641998,
+  "rejected": false,
+  "components": {
+   "location": 0.9420896993592903,
+   "building": 0.6,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.7333963048324328
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 0.9521290663845543,
+  "total": 0.9464106557422381,
+  "noise": {
+   "noise_dist": 9626.765240347693,
+   "rail_dist": 848.0416244025539,
+   "primary_dist": 290.46200129409357
+  },
+  "move_in_cost": 138000.0,
+  "metro": "Алексеевская",
+  "metro_walk": 3,
+  "job_p50": 39.58407974243164,
+  "job_share30": 0.24320498301245738,
+  "park_walk": 16.89492283818755,
+  "culture25": 74,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 336048513,
+  "fullUrl": "https://www.cian.ru/rent/flat/336048513/?context=4.9K9h5JtZNxw.DFQpmgh8neuQ-sb9XNM2JbG5r7ez2JGFWVpR6tHq-GN2BOBzC2suhzDM8E0ildGYyT590AEKS55vqg&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 60000,
+  "totalArea": "38.9",
+  "floorNumber": 2,
+  "floorsCount": 5,
+  "materialType": "block",
+  "buildYear": 1960,
+  "address": "Москва, ЦАО, р-н Пресненский, м. Деловой центр, улица Антонова-Овсеенко, 4",
+  "okrug": "ЦАО",
+  "lat": 55.753443,
+  "lng": 37.54012,
+  "rejected": false,
+  "components": {
+   "location": 0.9221291276490883,
+   "building": 0.6,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.7675513539614246
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 0.8155088698685873,
+  "total": 0.9462554654694658,
+  "noise": {
+   "noise_dist": 10485.359513038688,
+   "rail_dist": 532.1042089187752,
+   "primary_dist": 463.6723282691932
+  },
+  "move_in_cost": 150000.0,
+  "metro": "Деловой центр",
+  "metro_walk": 8,
+  "job_p50": 45.668331146240234,
+  "job_share30": 0.10551151377878444,
+  "park_walk": 7.4925256297500065,
+  "culture25": 27,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 335447715,
+  "fullUrl": "https://www.cian.ru/rent/flat/335447715/?context=4.w9g9guoevtE.SiE5uNWVeBYEZDcLo-Ul6Kjmqt6xtk6O9NZTSKTrVqQHQADNWogIFuY56S77ekJA75c9UsrprLweIQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 70000,
+  "totalArea": "35.0",
+  "floorNumber": 2,
+  "floorsCount": 8,
+  "materialType": "brick",
+  "buildYear": 1911,
+  "address": "Москва, ЦАО, р-н Замоскворечье, м. Павелецкая, улица Бахрушина, 21С3",
+  "okrug": "ЦАО",
+  "lat": 55.734126,
+  "lng": 37.636985,
+  "rejected": false,
+  "components": {
+   "location": 1.0,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.4807692307692308
+  },
+  "bonus": 0.05,
+  "flags": [],
+  "tags": [
+   "кирпич"
+  ],
+  "soft_reject": null,
+  "price_ratio": 1.0769230769230769,
+  "total": 0.9461538461538462,
+  "noise": {
+   "noise_dist": 12695.768623716174,
+   "rail_dist": 571.042038364802,
+   "primary_dist": 258.143569261379
+  },
+  "move_in_cost": 182000.0,
+  "metro": "Павелецкая",
+  "metro_walk": 6,
+  "job_p50": 38.07270431518555,
+  "job_share30": 0.25094375235938055,
+  "park_walk": 3.827853119317986,
+  "culture25": 132,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 299624619,
+  "fullUrl": "https://www.cian.ru/rent/flat/299624619/?context=4.gbxwiNtIJtc._phj2F0z7aYu5Od7pVUgREtywk5uWp919Pq9b15Yl0a9cGN0ZW-LkSf9YXWQOIOY3tz_iYPMBJMQuw&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 65000,
+  "totalArea": "45.0",
+  "floorNumber": 9,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 1965,
+  "address": "Москва, САО, р-н Хорошевский, м. Хорошёвская, улица Куусинена, 6К8",
+  "okrug": "САО",
+  "lat": 55.781889,
+  "lng": 37.519099,
+  "rejected": false,
+  "components": {
+   "location": 0.8700098570724495,
+   "building": 1.0,
+   "floor": 0.75,
+   "quiet": 1.0,
+   "price_value": 0.5742125199362043
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "собственник",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 1.0781499202551832,
+  "total": 0.9443459539625981,
+  "noise": {
+   "noise_dist": 8670.66198826288,
+   "rail_dist": 820.5240090809403,
+   "primary_dist": 1441.195740377984
+  },
+  "move_in_cost": 195000.0,
+  "metro": "Хорошёвская",
+  "metro_walk": 6,
+  "job_p50": 46.88015365600586,
+  "job_share30": 0.0587013967534919,
+  "park_walk": 3.4034653234215058,
+  "culture25": 13,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 333223373,
+  "fullUrl": "https://www.cian.ru/rent/flat/333223373/?context=4.6aB8A5HxhX4.rbDJ5UE0DMAmpYzet6U1L8hV_1XGtVKrd0_ChglneX0AZHylwJSBwoc-6KkxBcqj4jSVd-xTwev_Mg&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 65000,
+  "totalArea": "37.0",
+  "floorNumber": 4,
+  "floorsCount": 14,
+  "materialType": "brick",
+  "buildYear": 1970,
+  "address": "Москва, СВАО, р-н Останкинский, м. Алексеевская, проспект Мира, 91К2",
+  "okrug": "СВАО",
+  "lat": 55.806069,
+  "lng": 37.635512,
+  "rejected": false,
+  "components": {
+   "location": 0.9233612617052736,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 0.7,
+   "price_value": 0.5794814334391698
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "парк",
+   "кирпич"
+  ],
+  "soft_reject": null,
+  "price_ratio": 1.0570742662433206,
+  "total": 0.9440727282846796,
+  "noise": {
+   "noise_dist": 10073.814176939977,
+   "rail_dist": 548.1179949313713,
+   "primary_dist": 65.82632169240036
+  },
+  "move_in_cost": 146250.0,
+  "metro": "Алексеевская",
+  "metro_walk": 3,
+  "job_p50": 41.32146072387695,
+  "job_share30": 0.22055492638731586,
+  "park_walk": 18.444861066766794,
+  "culture25": 48,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 335469159,
+  "fullUrl": "https://www.cian.ru/rent/flat/335469159/?context=4.CCco9qTGQ0k.d741m032GqAiKxfj9Tr3O3QuSyqqyLs4TYtfS2WjSvDkq-iIbGDSxvzNZIh7T65fKfdh1b0nazs3Ag&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 62000,
+  "totalArea": "40.0",
+  "floorNumber": 2,
+  "floorsCount": 14,
+  "materialType": "block",
+  "buildYear": 1970,
+  "address": "Москва, СВАО, р-н Марьина роща, м. Марьина Роща, Октябрьская улица, 40",
+  "okrug": "СВАО",
+  "lat": 55.791683,
+  "lng": 37.614123,
+  "rejected": false,
+  "components": {
+   "location": 0.9608181370133071,
+   "building": 0.6,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.6885937972006847
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 0.8456248111972612,
+  "total": 0.9440051073947945,
+  "noise": {
+   "noise_dist": 11870.396451416604,
+   "rail_dist": 984.1952773891796,
+   "primary_dist": 146.69129465069437
+  },
+  "move_in_cost": 155000.0,
+  "metro": "Марьина Роща",
+  "metro_walk": 5,
+  "job_p50": 42.88945388793945,
+  "job_share30": 0.1482634956587391,
+  "park_walk": 8.15557549952605,
+  "culture25": 61,
+  "tier": "A",
   "duplicates": []
  },
  {
@@ -1743,7 +2368,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5649215703651188
+   "price_value": 0.5512198436998538
   },
   "bonus": 0.1,
   "flags": [],
@@ -1752,8 +2377,8 @@
    "парк"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8153137185395251,
-  "total": 0.9466154131366019,
+  "price_ratio": 0.8701206252005849,
+  "total": 0.9438750678035489,
   "noise": {
    "noise_dist": 9457.726327123866,
    "rail_dist": 490.4304256925231,
@@ -1767,6 +2392,96 @@
   "park_walk": 14.638517925261384,
   "culture25": 14,
   "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 335470479,
+  "fullUrl": "https://www.cian.ru/rent/flat/335470479/?context=4.4RxP13lNOZA.3346u0t2lej1vTu2OBEgcXfW83rvK_sSxGS4u5aT1PbljO1QLwW_BLW4-XGEzE_2wp9meyaJz8VlBQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 70000,
+  "totalArea": "60.0",
+  "floorNumber": 8,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 1975,
+  "address": "Москва, ЦАО, р-н Мещанский, м. Проспект Мира, улица Гиляровского, 36С1а",
+  "okrug": "ЦАО",
+  "lat": 55.782618,
+  "lng": 37.63261,
+  "rejected": false,
+  "components": {
+   "location": 0.9812715623459832,
+   "building": 1.0,
+   "floor": 0.85,
+   "quiet": 0.7,
+   "price_value": 0.5490430622009569
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "тихий",
+   "парк",
+   "кирпич"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.8038277511961724,
+  "total": 0.9432536592612853,
+  "noise": {
+   "noise_dist": 12120.453986311262,
+   "rail_dist": 715.4421226961658,
+   "primary_dist": 88.0993465608643
+  },
+  "move_in_cost": 175000.0,
+  "metro": "Проспект Мира",
+  "metro_walk": 2,
+  "job_p50": 37.96342468261719,
+  "job_share30": 0.28803322008304993,
+  "park_walk": 8.373176726497686,
+  "culture25": 145,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 336130388,
+  "fullUrl": "https://www.cian.ru/rent/flat/336130388/?context=4.YZO0-x2Vou0.8CAZqDMJRSpeAlbJJrNhdsvRqzb0cKCCLUUDnl99Zc_OuEW6tVo965UXN89c7FfwuEJ3DGio5i9czg&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 60000,
+  "totalArea": "56.0",
+  "floorNumber": 2,
+  "floorsCount": 14,
+  "materialType": null,
+  "buildYear": 1987,
+  "address": "Москва, ЮВАО, р-н Лефортово, м. Лефортово, Солдатский переулок, 2",
+  "okrug": "ЮВАО",
+  "lat": 55.763898,
+  "lng": 37.700451,
+  "rejected": false,
+  "components": {
+   "location": 0.9614342040413997,
+   "building": 0.5,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.7781759348034516
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.7730105465004793,
+  "total": 0.9421371583751802,
+  "noise": {
+   "noise_dist": 8897.12333186711,
+   "rail_dist": 1254.0485439219058,
+   "primary_dist": 495.62816442623256
+  },
+  "move_in_cost": 162000.0,
+  "metro": "Лефортово",
+  "metro_walk": 5,
+  "job_p50": 40.176551818847656,
+  "job_share30": 0.19714986787466948,
+  "park_walk": 4.035890841841647,
+  "culture25": 17,
+  "tier": "A",
   "duplicates": []
  },
  {
@@ -1788,7 +2503,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.5534726173541963
+   "price_value": 0.5428623142785193
   },
   "bonus": 0.15000000000000002,
   "flags": [
@@ -1803,8 +2518,8 @@
    "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8611095305832148,
-  "total": 0.9439325717704943,
+  "price_ratio": 0.903550742885923,
+  "total": 0.9418105111553589,
   "noise": {
    "noise_dist": 7030.05212888099,
    "rail_dist": 530.1577094796852,
@@ -1821,184 +2536,47 @@
   "duplicates": []
  },
  {
-  "cianId": 336130388,
-  "fullUrl": "https://www.cian.ru/rent/flat/336130388/?context=4.bsymQ0oVjK8.TBk7BwFetg7fmPFgfFA7OyNBJagF54xnQawPV25WE8mK_taB4iT2alTUq6Vk9kpu4d_hMVAul3BeGQ&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 60000,
-  "totalArea": "56.0",
-  "floorNumber": 2,
-  "floorsCount": 14,
-  "materialType": null,
-  "buildYear": 1987,
-  "address": "Москва, ЮВАО, р-н Лефортово, м. Лефортово, Солдатский переулок, 2",
-  "okrug": "ЮВАО",
-  "lat": 55.763898,
-  "lng": 37.700451,
-  "rejected": false,
-  "components": {
-   "location": 0.9614342040413997,
-   "building": 0.5,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.7809891808346213
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "парк"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.7617575623758004,
-  "total": 0.9426998075814141,
-  "noise": {
-   "noise_dist": 8897.12333186711,
-   "rail_dist": 1254.0485439219058,
-   "primary_dist": 495.62816442623256
-  },
-  "move_in_cost": 162000.0,
-  "metro": "Лефортово",
-  "metro_walk": 5,
-  "job_p50": 40.176551818847656,
-  "job_share30": 0.19714986787466948,
-  "park_walk": 4.035890841841647,
-  "culture25": 17,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 335917900,
-  "fullUrl": "https://www.cian.ru/rent/flat/335917900/?context=4.TiX5uKIFTPU.3faofpQ5VCis5FiFln-HlneNdB-N4Fx-Oa9sdGnYT1Ru2aCzRGPjHeWZM_NJt8QrnyfLptnrjmAmNA&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 59000,
-  "totalArea": "36.0",
-  "floorNumber": 5,
-  "floorsCount": 16,
-  "materialType": null,
-  "buildYear": 1976,
-  "address": "Москва, ЦАО, р-н Мещанский, м. Марьина Роща, Олимпийский проспект, 28",
-  "okrug": "ЦАО",
-  "lat": 55.790565,
-  "lng": 37.623043,
-  "rejected": false,
-  "components": {
-   "location": 0.9466485953671759,
-   "building": 0.5,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.7949959814510914
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "собственник",
-   "парк"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.8485875027670627,
-  "total": 0.9403262046687298,
-  "noise": {
-   "noise_dist": 11872.51693738019,
-   "rail_dist": 728.5486303383553,
-   "primary_dist": 235.91671849518144
-  },
-  "move_in_cost": 133500.0,
-  "metro": "Марьина Роща",
-  "metro_walk": 8,
-  "job_p50": 43.1073112487793,
-  "job_share30": 0.1973386183465458,
-  "park_walk": 8.431840155583874,
-  "culture25": 37,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 334385611,
-  "fullUrl": "https://www.cian.ru/rent/flat/334385611/?context=4.1l-5mirkP9g.y0wMlVMGz3vPRROYC8bmTLyRKX5pZYhEu_Sj28nPDcxYvKbUjyyEXl7DFrPnZk_61fmN0e3Ev2zbrA&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
+  "cianId": 336135204,
+  "fullUrl": "https://www.cian.ru/rent/flat/336135204/?context=4.Sw0IeWSOclU.HL4tBv6Grs7iFC06uuS2Xj3Mk8VB7-wP_JYMQRKuoYgHLcJCnQP6FUhHjulD4m49J4zbq6bU927oLQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
-  "totalArea": "66.0",
+  "totalArea": "32.0",
   "floorNumber": 3,
-  "floorsCount": 6,
-  "materialType": "brick",
-  "buildYear": 1927,
-  "address": "Москва, ВАО, р-н Соколиная гора, м. Электрозаводская, переулок Мажоров, 4",
-  "okrug": "ВАО",
-  "lat": 55.782274,
-  "lng": 37.712363,
-  "rejected": false,
-  "components": {
-   "location": 0.9338344011828487,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.5673118747281427
-  },
-  "bonus": 0.05,
-  "flags": [],
-  "tags": [
-   "собственник"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.7307525010874294,
-  "total": 0.9403044153596256,
-  "noise": {
-   "noise_dist": 8093.7723643845175,
-   "rail_dist": 349.39882454490737,
-   "primary_dist": 1435.4824674277754
-  },
-  "move_in_cost": 175000.0,
-  "metro": "Семёновская",
-  "metro_walk": 7,
-  "job_p50": 40.99683380126953,
-  "job_share30": 0.19101547753869366,
-  "park_walk": 15.009947011458259,
-  "culture25": 30,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 335978690,
-  "fullUrl": "https://www.cian.ru/rent/flat/335978690/?context=4.uxxTNybMrjE.VPZwEN6lvHZluAulXU7UjxBTi8X-eNFdaZxqQvgimCJs3iQOqI9KZ5RW_aSRSO95fhMPrakQwe5apw&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
-  "price": 70000,
-  "totalArea": "30.0",
-  "floorNumber": 2,
   "floorsCount": 8,
   "materialType": "brick",
-  "buildYear": 1962,
-  "address": "Москва, САО, р-н Сокол, м. Сокол, улица Алабяна, 3К3",
-  "okrug": "САО",
-  "lat": 55.802771,
-  "lng": 37.510709,
+  "buildYear": 1958,
+  "address": "Москва, ЦАО, р-н Мещанский, м. Достоевская, улица Дурова, 3/13",
+  "okrug": "ЦАО",
+  "lat": 55.780891,
+  "lng": 37.620519,
   "rejected": false,
   "components": {
-   "location": 0.8883686545096107,
+   "location": 0.9661163134549039,
    "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.4455596107055961
+   "price_value": 0.45433180894308944
   },
-  "bonus": 0.05,
-  "flags": [
-   "owner"
-  ],
+  "bonus": 0.0,
+  "flags": [],
   "tags": [
-   "собственник",
    "парк",
-   "кирпич",
-   "soviet_ensemble"
+   "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 1.2177615571776157,
-  "total": 0.940040951219483,
+  "price_ratio": 1.1826727642276422,
+  "total": 0.9390070714978342,
   "noise": {
-   "noise_dist": 7641.5697793852705,
-   "rail_dist": 839.459284860783,
-   "primary_dist": 294.7836801845584
+   "noise_dist": 12772.826615451517,
+   "rail_dist": 1496.027095921254,
+   "primary_dist": 785.6215881340357
   },
-  "move_in_cost": 140000.0,
-  "metro": "Сокол",
-  "metro_walk": 5,
-  "job_p50": 48.1601448059082,
-  "job_share30": 0.07521706304265761,
-  "park_walk": 3.584168222054045,
-  "culture25": 17,
+  "move_in_cost": 157500.0,
+  "metro": "Достоевская",
+  "metro_walk": 7,
+  "job_p50": 42.80485534667969,
+  "job_share30": 0.15958852397130988,
+  "park_walk": 0.36718915371628597,
+  "culture25": 81,
   "tier": "B",
   "duplicates": []
  },
@@ -2021,7 +2599,7 @@
    "building": 1.0,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.7735065661171052
+   "price_value": 0.7745435399222107
   },
   "bonus": 0.05,
   "flags": [
@@ -2033,8 +2611,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.791688021245865,
-  "total": 0.9387710520110012,
+  "price_ratio": 0.7875401260254428,
+  "total": 0.9389784467720222,
   "noise": {
    "noise_dist": 4651.416574755272,
    "rail_dist": 934.7221322397031,
@@ -2051,177 +2629,102 @@
   "duplicates": []
  },
  {
-  "cianId": 336135204,
-  "fullUrl": "https://www.cian.ru/rent/flat/336135204/?context=4.Dd0kY7ciEQA.v-RCriO8hrG6ZxcSHv1IkkH2-B6yXTsluGzTQkOYJ6fzvrci3dlXs9cVK74UnaaITU_ZVtyGyGjoTg&mlSearchSessionGuid=7a72053715e1c155918b9b6a1b7eea60",
+  "cianId": 335978690,
+  "fullUrl": "https://www.cian.ru/rent/flat/335978690/?context=4.YkXfxX2CId8.4Qm5BGHLn64lVBMyjeyibcTvxqUDdQKHjPBqhCPSHgs0KZBk2mqgGEWaEUtrl8p8pleQxhw62OEzSQ&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
-  "totalArea": "32.0",
-  "floorNumber": 3,
+  "totalArea": "30.0",
+  "floorNumber": 2,
   "floorsCount": 8,
   "materialType": "brick",
-  "buildYear": 1958,
-  "address": "Москва, ЦАО, р-н Мещанский, м. Достоевская, улица Дурова, 3/13",
-  "okrug": "ЦАО",
-  "lat": 55.780891,
-  "lng": 37.620519,
-  "rejected": false,
-  "components": {
-   "location": 0.9661163134549039,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.4524164677804296
-  },
-  "bonus": 0.0,
-  "flags": [],
-  "tags": [
-   "парк",
-   "stalinka"
-  ],
-  "soft_reject": null,
-  "price_ratio": 1.1903341288782816,
-  "total": 0.9386240032653024,
-  "noise": {
-   "noise_dist": 12772.826615451517,
-   "rail_dist": 1496.027095921254,
-   "primary_dist": 785.6215881340357
-  },
-  "move_in_cost": 157500.0,
-  "metro": "Достоевская",
-  "metro_walk": 7,
-  "job_p50": 42.80485534667969,
-  "job_share30": 0.15958852397130988,
-  "park_walk": 0.36718915371628597,
-  "culture25": 81,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 328910954,
-  "fullUrl": "https://www.cian.ru/rent/flat/328910954/?context=4.AQgQTGxAP4w.LAJrnV4I5OvIvZi0IREpKPij3E4eihZPAZ1Z9ZsVC2ptUftR77idJiRsRc3NTv0rjiXTSZossDrrrw&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
-  "price": 67000,
-  "totalArea": "39.0",
-  "floorNumber": 7,
-  "floorsCount": 9,
-  "materialType": "brick",
-  "buildYear": null,
-  "address": "Москва, САО, р-н Аэропорт, м. Аэропорт, улица Лизы Чайкиной, 4К1",
+  "buildYear": 1962,
+  "address": "Москва, САО, р-н Сокол, м. Сокол, улица Алабяна, 3К3",
   "okrug": "САО",
-  "lat": 55.803833,
-  "lng": 37.526124,
+  "lat": 55.802771,
+  "lng": 37.510709,
   "rejected": false,
   "components": {
-   "location": 0.8192459339576146,
+   "location": 0.8883686545096107,
    "building": 1.0,
-   "floor": 0.85,
-   "quiet": 1.0,
-   "price_value": 0.5833444651678596
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 0.8916221393285614,
-  "total": 0.938404969918737,
-  "noise": {
-   "noise_dist": 8570.638484817124,
-   "rail_dist": 1189.7969265962533,
-   "primary_dist": 165.80892673798598
-  },
-  "move_in_cost": 150500.0,
-  "metro": "Аэропорт",
-  "metro_walk": 8,
-  "job_p50": 48.07207107543945,
-  "job_share30": 0.062382030955077404,
-  "park_walk": 14.132576020386352,
-  "culture25": 21,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 335383133,
-  "fullUrl": "https://www.cian.ru/rent/flat/335383133/?context=4.J9fk9WI2upE.R1MassBXwUf_CjZKgl1jTDt_CYCQlcKRz3OI6kZEeva8UGwm0VGWyT7fMX8U1huu6O6k17uU6vnzQw&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 60000,
-  "totalArea": "38.0",
-  "floorNumber": 2,
-  "floorsCount": 14,
-  "materialType": null,
-  "buildYear": 1986,
-  "address": "Москва, ЮВАО, р-н Лефортово, м. Лефортово, Солдатская улица, 8К2",
-  "okrug": "ЮВАО",
-  "lat": 55.76406,
-  "lng": 37.701655,
-  "rejected": false,
-  "components": {
-   "location": 0.9614342040413997,
-   "building": 0.5,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.7571428571428571
+   "price_value": 0.4385593220338983
   },
-  "bonus": 0.1,
-  "flags": [],
+  "bonus": 0.05,
+  "flags": [
+   "owner"
+  ],
   "tags": [
    "собственник",
-   "парк"
+   "парк",
+   "кирпич",
+   "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8571428571428572,
-  "total": 0.9379305428430613,
+  "price_ratio": 1.2457627118644068,
+  "total": 0.9386408934851435,
   "noise": {
-   "noise_dist": 8822.354626422524,
-   "rail_dist": 1181.116289840963,
-   "primary_dist": 570.260053772772
+   "noise_dist": 7641.5697793852705,
+   "rail_dist": 839.459284860783,
+   "primary_dist": 294.7836801845584
   },
-  "move_in_cost": 150000.0,
-  "metro": "Лефортово",
-  "metro_walk": 4,
-  "job_p50": 40.176551818847656,
-  "job_share30": 0.19714986787466948,
-  "park_walk": 4.035890841841647,
+  "move_in_cost": 140000.0,
+  "metro": "Сокол",
+  "metro_walk": 5,
+  "job_p50": 48.1601448059082,
+  "job_share30": 0.07521706304265761,
+  "park_walk": 3.584168222054045,
   "culture25": 17,
-  "tier": "A",
+  "tier": "B",
   "duplicates": []
  },
  {
-  "cianId": 335732031,
-  "fullUrl": "https://www.cian.ru/rent/flat/335732031/?context=4.gFUK_PWsy-k.t3ziAu3vkhRyD0C-LQD4oywljScS1yZrR2fYguhYQSla0Q0UyQh1D5fQq32UfE3IQWKVSmHBt2hHFg&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
-  "price": 55000,
-  "totalArea": "40.0",
+  "cianId": 336599050,
+  "fullUrl": "https://www.cian.ru/rent/flat/336599050/?context=4.ZQsBEs3-Z9I.tVg9f3p6XsrwT-eW7zINqtAC5ZL3DxU2X57n61jLT-lD8wm3A2dx40Wjgh7sTXS3xfvjBMTSWA4fmA&mlSearchSessionGuid=7a72053715e1c155918b9b6a1b7eea60",
+  "price": 69000,
+  "totalArea": "35.0",
   "floorNumber": 3,
-  "floorsCount": 9,
-  "materialType": "block",
-  "buildYear": 1963,
-  "address": "Москва, СВАО, р-н Бутырский, м. Фонвизинская, улица Яблочкова, 24К2",
-  "okrug": "СВАО",
-  "lat": 55.823297,
-  "lng": 37.581415,
+  "floorsCount": 5,
+  "materialType": "brick",
+  "buildYear": 1960,
+  "address": "Москва, ВАО, р-н Соколиная гора, м. Измайлово, Фортунатовская улица, 16",
+  "okrug": "ВАО",
+  "lat": 55.788292,
+  "lng": 37.738216,
   "rejected": false,
   "components": {
-   "location": 0.8320601281419419,
-   "building": 0.6,
+   "location": 0.9260719566288812,
+   "building": 1.0,
    "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.8830810147299509
+   "price_value": 0.5708154044750431
   },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [],
+  "bonus": 0.05,
+  "flags": [
+   "owner"
+  ],
+  "tags": [
+   "собственник",
+   "без_комиссии",
+   "тихий",
+   "парк",
+   "кирпич"
+  ],
   "soft_reject": null,
-  "price_ratio": 0.9676759410801964,
-  "total": 0.9378372477956699,
+  "price_ratio": 0.7917383820998278,
+  "total": 0.938288265715117,
   "noise": {
-   "noise_dist": 8983.61929991886,
-   "rail_dist": 458.1390151081908,
-   "primary_dist": 521.2151123783419
+   "noise_dist": 6438.244687726161,
+   "rail_dist": 292.1661589373179,
+   "primary_dist": 381.0286690598652
   },
-  "move_in_cost": 143000.0,
-  "metro": "Фонвизинская",
-  "metro_walk": 4,
-  "job_p50": 47.384185791015625,
-  "job_share30": 0.10947527368818423,
-  "park_walk": 10.429101191749535,
-  "culture25": 8,
-  "tier": "A",
+  "move_in_cost": 69000.0,
+  "metro": "Измайлово",
+  "metro_walk": 6,
+  "job_p50": 45.570682525634766,
+  "job_share30": 0.10626651566628911,
+  "park_walk": 6.7163774159343275,
+  "culture25": 25,
+  "tier": "B",
   "duplicates": []
  },
  {
@@ -2243,7 +2746,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 0.9,
-   "price_value": 0.7378467467924337
+   "price_value": 0.7386201638494765
   },
   "bonus": 0.05,
   "flags": [],
@@ -2253,8 +2756,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.9343272985445509,
-  "total": 0.9377627944053079,
+  "price_ratio": 0.93123363031638,
+  "total": 0.9379174778167164,
   "noise": {
    "noise_dist": 6406.300045471593,
    "rail_dist": 195.4805362392154,
@@ -2267,6 +2770,53 @@
   "job_share30": 0.11089090222725555,
   "park_walk": 4.9724509881657,
   "culture25": 10,
+  "tier": "A",
+  "duplicates": [
+   {
+    "cianId": 313942675,
+    "fullUrl": "https://www.cian.ru/rent/flat/313942675/?context=4.fX1fB1zr6rw.wXD49IVJRtF-O-FkCFOqUBBX99Ym3hReS8w2IRIq3mJmw4aGxJUX1Ophu-X7cSM3lRIEl7POf_JPhQ&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed"
+   }
+  ]
+ },
+ {
+  "cianId": 335732031,
+  "fullUrl": "https://www.cian.ru/rent/flat/335732031/?context=4.gFUK_PWsy-k.t3ziAu3vkhRyD0C-LQD4oywljScS1yZrR2fYguhYQSla0Q0UyQh1D5fQq32UfE3IQWKVSmHBt2hHFg&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
+  "price": 55000,
+  "totalArea": "40.0",
+  "floorNumber": 3,
+  "floorsCount": 9,
+  "materialType": "block",
+  "buildYear": 1963,
+  "address": "Москва, СВАО, р-н Бутырский, м. Фонвизинская, улица Яблочкова, 24К2",
+  "okrug": "СВАО",
+  "lat": 55.823297,
+  "lng": 37.581415,
+  "rejected": false,
+  "components": {
+   "location": 0.8320601281419419,
+   "building": 0.6,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.8827257981901998
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 0.9690968072392009,
+  "total": 0.9377662044877196,
+  "noise": {
+   "noise_dist": 8983.61929991886,
+   "rail_dist": 458.1390151081908,
+   "primary_dist": 521.2151123783419
+  },
+  "move_in_cost": 143000.0,
+  "metro": "Фонвизинская",
+  "metro_walk": 4,
+  "job_p50": 47.384185791015625,
+  "job_share30": 0.10947527368818423,
+  "park_walk": 10.429101191749535,
+  "culture25": 8,
   "tier": "A",
   "duplicates": []
  },
@@ -2289,14 +2839,14 @@
    "building": 0.6,
    "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.7611740528007588
+   "price_value": 0.7676210723949417
   },
   "bonus": 0.1,
   "flags": [],
   "tags": [],
   "soft_reject": null,
-  "price_ratio": 0.8410180745112504,
-  "total": 0.936405584340339,
+  "price_ratio": 0.8152299961345187,
+  "total": 0.9376949882591756,
   "noise": {
    "noise_dist": 10876.12629701289,
    "rail_dist": 413.3315516920763,
@@ -2313,57 +2863,96 @@
   "duplicates": []
  },
  {
-  "cianId": 336373666,
-  "fullUrl": "https://www.cian.ru/rent/flat/336373666/?context=4.UnQWWG3_PVw.MmJ1i3KpEj7Kq0C9RVsf9IPZ7bP5ZGjxz8g23GVnJpbjZtt-LHsT-1pn6aW3zBFhREFfspYH-ofyAg&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
-  "price": 65000,
+  "cianId": 328910954,
+  "fullUrl": "https://www.cian.ru/rent/flat/328910954/?context=4.THdk74A4r5k.26XMNfGTDn5M0uJehxXMqGdGNBc4ieVUz6IqxAY-lkd-y4Wvto6E5-49N-4j8vYEaU6gr_Azaw8gWg&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
+  "price": 67000,
   "totalArea": "39.0",
-  "floorNumber": 3,
+  "floorNumber": 7,
   "floorsCount": 9,
   "materialType": "brick",
-  "buildYear": 1965,
-  "address": "Москва, СВАО, р-н Бутырский, м. Фонвизинская, улица Фонвизина, 8Б",
-  "okrug": "СВАО",
-  "lat": 55.818417,
-  "lng": 37.586015,
+  "buildYear": null,
+  "address": "Москва, САО, р-н Аэропорт, м. Аэропорт, улица Лизы Чайкиной, 4К1",
+  "okrug": "САО",
+  "lat": 55.803833,
+  "lng": 37.526124,
   "rejected": false,
   "components": {
-   "location": 0.7364465253819615,
+   "location": 0.8192459339576146,
    "building": 1.0,
-   "floor": 1.0,
+   "floor": 0.85,
    "quiet": 1.0,
-   "price_value": 0.6400046816479401
+   "price_value": 0.5773597192962477
   },
   "bonus": 0.1,
   "flags": [],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 0.9155611228150089,
+  "total": 0.9372080207444146,
+  "noise": {
+   "noise_dist": 8570.638484817124,
+   "rail_dist": 1189.7969265962533,
+   "primary_dist": 165.80892673798598
+  },
+  "move_in_cost": 150500.0,
+  "metro": "Аэропорт",
+  "metro_walk": 8,
+  "job_p50": 48.07207107543945,
+  "job_share30": 0.062382030955077404,
+  "park_walk": 14.132576020386352,
+  "culture25": 21,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 279923881,
+  "fullUrl": "https://www.cian.ru/rent/flat/279923881/?context=4.6MgVNEiFw04.x9rkkSbKY_xaUFXuclsTNwoyFeYVhNypHcvq2_GEOeEeBOYNLI49EQ1UX6ym8_YwlpQmiVTHF8ur_Q&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 59000,
+  "totalArea": "32.0",
+  "floorNumber": 2,
+  "floorsCount": 5,
+  "materialType": "brick",
+  "buildYear": 1959,
+  "address": "Москва, ВАО, р-н Соколиная гора, м. Соколиная гора, улица 8-я Соколиной Горы, 18К2",
+  "okrug": "ВАО",
+  "lat": 55.767575,
+  "lng": 37.739078,
+  "rejected": false,
+  "components": {
+   "location": 0.8141941843272548,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.7563224514149335
+  },
+  "bonus": 0.05,
+  "flags": [
+   "owner"
+  ],
   "tags": [
-   "собственник"
+   "тихий"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8149812734082397,
-  "total": 0.9357572202132746,
+  "price_ratio": 1.0032816229116945,
+  "total": 0.9362324547975259,
   "noise": {
-   "noise_dist": 9411.364877880349,
-   "rail_dist": 546.1912272890451,
-   "primary_dist": 648.0079005294269
+   "noise_dist": 6493.295097693244,
+   "rail_dist": 414.4278179655801,
+   "primary_dist": 503.27740820034023
   },
-  "move_in_cost": 162500.0,
-  "metro": "Тимирязевская",
+  "move_in_cost": 118000.0,
+  "metro": "Соколиная гора",
   "metro_walk": 8,
-  "job_p50": 48.22311782836914,
-  "job_share30": 0.07710456776141941,
-  "park_walk": 16.89864143369793,
-  "culture25": 9,
-  "tier": "B",
-  "duplicates": [
-   {
-    "cianId": 335010274,
-    "fullUrl": "https://www.cian.ru/rent/flat/335010274/?context=4.Uhb6lMuAIyo.GgqRzCRvbGW4cjQk9ff4RehWFD4FuO0j_oRmKr7i7XoyN6cA-D67GRk3jvpJ3BRYuBZdQtlteND0uw&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb"
-   }
-  ]
+  "job_p50": 49.834716796875,
+  "job_share30": 0.04596073990184976,
+  "park_walk": 8.057640483937918,
+  "culture25": 4,
+  "tier": "A",
+  "duplicates": []
  },
  {
   "cianId": 261109134,
-  "fullUrl": "https://www.cian.ru/rent/flat/261109134/?context=4.TRvRw9jnQfA.feSpvDmSGKGyLmBnLkoMGyoA4lVu541foHoPiE7TCJeDPYr_5paPdSpLjpEDzu10XVYCF-PAD69aoA&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
+  "fullUrl": "https://www.cian.ru/rent/flat/261109134/?context=4.DBWMlVD8GYk.EMMTfBH2lWhYw492bcXgXLLvWDz2Q5awPiwKaoiArHQP9tEbTmNiXm7DVCz_5Nh_8blekMcXlCJ_ng&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "31.0",
   "floorNumber": 3,
@@ -2407,6 +2996,237 @@
   "duplicates": []
  },
  {
+  "cianId": 336019501,
+  "fullUrl": "https://www.cian.ru/rent/flat/336019501/?context=4.cPFkUAI22N0.-k6qhTtQsjWy99usB8etic7_eWs213j2UDQFYaaheFqcOZZDiXyQttFdWo22kYpsB0TCWVbN_-v_Cg&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 65000,
+  "totalArea": "42.0",
+  "floorNumber": 7,
+  "floorsCount": 14,
+  "materialType": "brick",
+  "buildYear": 1971,
+  "address": "Москва, САО, р-н Аэропорт, м. Петровский Парк, улица Верхняя Масловка, 27К2",
+  "okrug": "САО",
+  "lat": 55.79766,
+  "lng": 37.557152,
+  "rejected": false,
+  "components": {
+   "location": 0.7782158698866437,
+   "building": 1.0,
+   "floor": 0.85,
+   "quiet": 1.0,
+   "price_value": 0.6411525974025973
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 0.8103896103896104,
+  "total": 0.9356060739408447,
+  "noise": {
+   "noise_dist": 10602.508755635996,
+   "rail_dist": 806.9244679265568,
+   "primary_dist": 721.449483320511
+  },
+  "move_in_cost": 195000.0,
+  "metro": "Петровский Парк",
+  "metro_walk": 9,
+  "job_p50": 47.78653335571289,
+  "job_share30": 0.11325028312570778,
+  "park_walk": 2.618335447311221,
+  "culture25": 7,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 336373666,
+  "fullUrl": "https://www.cian.ru/rent/flat/336373666/?context=4.W__q--a_l5c.BD5m7qvrI6cv6g5XuIxPmip5CHNzIWSliMzQd_jnaEn1xzzSSq_-5SB3v4Pjm-_kKVs2p3pz_z3p5w&mlSearchSessionGuid=20137d86d1bf74e05fde88d1468ecfed",
+  "price": 65000,
+  "totalArea": "39.0",
+  "floorNumber": 3,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 1965,
+  "address": "Москва, СВАО, р-н Бутырский, м. Фонвизинская, улица Фонвизина, 8Б",
+  "okrug": "СВАО",
+  "lat": 55.818417,
+  "lng": 37.586015,
+  "rejected": false,
+  "components": {
+   "location": 0.7364465253819615,
+   "building": 1.0,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.63703165374677
+  },
+  "bonus": 0.1,
+  "flags": [],
+  "tags": [
+   "собственник"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.82687338501292,
+  "total": 0.9351626146330406,
+  "noise": {
+   "noise_dist": 9411.364877880349,
+   "rail_dist": 546.1912272890451,
+   "primary_dist": 648.0079005294269
+  },
+  "move_in_cost": 162500.0,
+  "metro": "Тимирязевская",
+  "metro_walk": 8,
+  "job_p50": 48.22311782836914,
+  "job_share30": 0.07710456776141941,
+  "park_walk": 16.89864143369793,
+  "culture25": 9,
+  "tier": "B",
+  "duplicates": [
+   {
+    "cianId": 335010274,
+    "fullUrl": "https://www.cian.ru/rent/flat/335010274/?context=4.Uhb6lMuAIyo.GgqRzCRvbGW4cjQk9ff4RehWFD4FuO0j_oRmKr7i7XoyN6cA-D67GRk3jvpJ3BRYuBZdQtlteND0uw&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb"
+   }
+  ]
+ },
+ {
+  "cianId": 336296748,
+  "fullUrl": "https://www.cian.ru/rent/flat/336296748/?context=4.Now8JStM_ow.VKutx-95ptp9E8cSlotxmPwV3ZMjASio2kcwwn80m14j3fUioIHlIbsxaZoeKpcHXANnJ1QQY9gmgg&mlSearchSessionGuid=7a72053715e1c155918b9b6a1b7eea60",
+  "price": 70000,
+  "totalArea": "52.0",
+  "floorNumber": 9,
+  "floorsCount": 12,
+  "materialType": "block",
+  "buildYear": 1967,
+  "address": "Москва, ЦАО, р-н Пресненский, м. Улица 1905 года, Столярный переулок, 18",
+  "okrug": "ЦАО",
+  "lat": 55.764197,
+  "lng": 37.565245,
+  "rejected": false,
+  "components": {
+   "location": 0.9318629866929522,
+   "building": 0.6,
+   "floor": 0.85,
+   "quiet": 1.0,
+   "price_value": 0.5192307692307692
+  },
+  "bonus": 0.15000000000000002,
+  "flags": [
+   "owner"
+  ],
+  "tags": [
+   "собственник",
+   "парк"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.9230769230769231,
+  "total": 0.9349981991886871,
+  "noise": {
+   "noise_dist": 12043.959339446174,
+   "rail_dist": 963.511713886042,
+   "primary_dist": 164.7504729945474
+  },
+  "move_in_cost": 140000.0,
+  "metro": "Улица 1905 года",
+  "metro_walk": 4,
+  "job_p50": 40.736541748046875,
+  "job_share30": 0.1488297470743676,
+  "park_walk": 16.497706309030576,
+  "culture25": 139,
+  "tier": "B",
+  "duplicates": []
+ },
+ {
+  "cianId": 336176870,
+  "fullUrl": "https://www.cian.ru/rent/flat/336176870/?context=4.pS2BTsZ1g2g.uuWbd_pqMGP1BzDK8j4Uu8fDJ98XZA3YEysAWKJyqEYC-ospIt8GUBkbHjPEGqPnFSqb2YyviU8VGw&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
+  "price": 58000,
+  "totalArea": "32.0",
+  "floorNumber": 5,
+  "floorsCount": 5,
+  "materialType": "brick",
+  "buildYear": 1960,
+  "address": "Москва, ВАО, р-н Соколиная гора, м. Измайлово, Фортунатовская улица, 19",
+  "okrug": "ВАО",
+  "lat": 55.787882,
+  "lng": 37.739474,
+  "rejected": false,
+  "components": {
+   "location": 0.9260719566288812,
+   "building": 1.0,
+   "floor": 0.9,
+   "quiet": 1.0,
+   "price_value": 0.8540550595238094
+  },
+  "bonus": 0.0,
+  "flags": [
+   "lift_unknown"
+  ],
+  "tags": [
+   "тихий",
+   "кирпич"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.7552083333333334,
+  "total": 0.9349361967248703,
+  "noise": {
+   "noise_dist": 6362.418772984118,
+   "rail_dist": 212.4252080029693,
+   "primary_dist": 301.22342693980164
+  },
+  "move_in_cost": 145000.0,
+  "metro": "Измайлово",
+  "metro_walk": 4,
+  "job_p50": 45.570682525634766,
+  "job_share30": 0.10626651566628911,
+  "park_walk": 6.7163774159343275,
+  "culture25": 25,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 282498734,
+  "fullUrl": "https://www.cian.ru/rent/flat/282498734/?context=4.7IqIe6_tMXw.KNzaWw3QjMHJW_y05BPcZ4Bo3H2zDXOHuTPkVRuP3pkEhkWPhZ_gOCfLfi67AIWKUVh4qx5fqyrFPQ&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
+  "price": 58000,
+  "totalArea": "45.0",
+  "floorNumber": 3,
+  "floorsCount": 5,
+  "materialType": null,
+  "buildYear": 1966,
+  "address": "Москва, СВАО, р-н Марьина роща, м. Марьина Роща, улица 4-я Марьиной рощи, 8",
+  "okrug": "СВАО",
+  "lat": 55.79599,
+  "lng": 37.62448,
+  "rejected": false,
+  "components": {
+   "location": 0.9154756037456875,
+   "building": 0.5,
+   "floor": 1.0,
+   "quiet": 1.0,
+   "price_value": 0.8208475734791525
+  },
+  "bonus": 0.1,
+  "flags": [
+   "owner"
+  ],
+  "tags": [
+   "собственник"
+  ],
+  "soft_reject": null,
+  "price_ratio": 0.8880382775119618,
+  "total": 0.9345859760068211,
+  "noise": {
+   "noise_dist": 11290.46823459108,
+   "rail_dist": 390.3754263723343,
+   "primary_dist": 353.72311540995145
+  },
+  "move_in_cost": 156600.0,
+  "metro": "Марьина Роща",
+  "metro_walk": 7,
+  "job_p50": 41.02975845336914,
+  "job_share30": 0.20828614571536425,
+  "park_walk": 16.817403462237092,
+  "culture25": 37,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
   "cianId": 335141602,
   "fullUrl": "https://www.cian.ru/rent/flat/335141602/?context=4.nrFJZP1zP2k.PpVkIoKUTt7VsMlTVJgRIpZcwRFwwp_jwlrgH2HoXHEH2-zykeKz2mkozLerRJFkjjb8JsTp0V1S-Q&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
   "price": 68000,
@@ -2425,7 +3245,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 0.7,
-   "price_value": 0.48937891440501047
+   "price_value": 0.4791372202591284
   },
   "bonus": 0.1,
   "flags": [
@@ -2435,8 +3255,8 @@
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 1.1924843423799583,
-  "total": 0.9353474437977098,
+  "price_ratio": 1.2334511189634865,
+  "total": 0.9332991049685334,
   "noise": {
    "noise_dist": 7082.029763512091,
    "rail_dist": 94.876096225188,
@@ -2476,7 +3296,7 @@
    "building": 1.0,
    "floor": 1.0,
    "quiet": 0.9,
-   "price_value": 0.5759040062434964
+   "price_value": 0.558499800524336
   },
   "bonus": 0.05,
   "flags": [
@@ -2486,8 +3306,8 @@
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 1.0713839750260146,
-  "total": 0.9352399436833962,
+  "price_ratio": 1.1410007979026562,
+  "total": 0.9317591025395642,
   "noise": {
    "noise_dist": 6689.457957741665,
    "rail_dist": 176.27078836316144,
@@ -2504,190 +3324,8 @@
   "duplicates": []
  },
  {
-  "cianId": 336296748,
-  "fullUrl": "https://www.cian.ru/rent/flat/336296748/?context=4.Now8JStM_ow.VKutx-95ptp9E8cSlotxmPwV3ZMjASio2kcwwn80m14j3fUioIHlIbsxaZoeKpcHXANnJ1QQY9gmgg&mlSearchSessionGuid=7a72053715e1c155918b9b6a1b7eea60",
-  "price": 70000,
-  "totalArea": "52.0",
-  "floorNumber": 9,
-  "floorsCount": 12,
-  "materialType": "block",
-  "buildYear": 1967,
-  "address": "Москва, ЦАО, р-н Пресненский, м. Улица 1905 года, Столярный переулок, 18",
-  "okrug": "ЦАО",
-  "lat": 55.764197,
-  "lng": 37.565245,
-  "rejected": false,
-  "components": {
-   "location": 0.9318629866929522,
-   "building": 0.6,
-   "floor": 0.85,
-   "quiet": 1.0,
-   "price_value": 0.5200320512820513
-  },
-  "bonus": 0.15000000000000002,
-  "flags": [
-   "owner"
-  ],
-  "tags": [
-   "собственник",
-   "парк"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.9198717948717948,
-  "total": 0.9351584555989435,
-  "noise": {
-   "noise_dist": 12043.959339446174,
-   "rail_dist": 963.511713886042,
-   "primary_dist": 164.7504729945474
-  },
-  "move_in_cost": 140000.0,
-  "metro": "Улица 1905 года",
-  "metro_walk": 4,
-  "job_p50": 40.736541748046875,
-  "job_share30": 0.1488297470743676,
-  "park_walk": 16.497706309030576,
-  "culture25": 139,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 336176870,
-  "fullUrl": "https://www.cian.ru/rent/flat/336176870/?context=4.pS2BTsZ1g2g.uuWbd_pqMGP1BzDK8j4Uu8fDJ98XZA3YEysAWKJyqEYC-ospIt8GUBkbHjPEGqPnFSqb2YyviU8VGw&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
-  "price": 58000,
-  "totalArea": "32.0",
-  "floorNumber": 5,
-  "floorsCount": 5,
-  "materialType": "brick",
-  "buildYear": 1960,
-  "address": "Москва, ВАО, р-н Соколиная гора, м. Измайлово, Фортунатовская улица, 19",
-  "okrug": "ВАО",
-  "lat": 55.787882,
-  "lng": 37.739474,
-  "rejected": false,
-  "components": {
-   "location": 0.9260719566288812,
-   "building": 1.0,
-   "floor": 0.9,
-   "quiet": 1.0,
-   "price_value": 0.854104419545596
-  },
-  "bonus": 0.0,
-  "flags": [
-   "lift_unknown"
-  ],
-  "tags": [
-   "тихий",
-   "кирпич"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.7550108932461873,
-  "total": 0.9349460687292276,
-  "noise": {
-   "noise_dist": 6362.418772984118,
-   "rail_dist": 212.4252080029693,
-   "primary_dist": 301.22342693980164
-  },
-  "move_in_cost": 145000.0,
-  "metro": "Измайлово",
-  "metro_walk": 4,
-  "job_p50": 45.570682525634766,
-  "job_share30": 0.10626651566628911,
-  "park_walk": 6.7163774159343275,
-  "culture25": 25,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 282498734,
-  "fullUrl": "https://www.cian.ru/rent/flat/282498734/?context=4.7IqIe6_tMXw.KNzaWw3QjMHJW_y05BPcZ4Bo3H2zDXOHuTPkVRuP3pkEhkWPhZ_gOCfLfi67AIWKUVh4qx5fqyrFPQ&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 58000,
-  "totalArea": "45.0",
-  "floorNumber": 3,
-  "floorsCount": 5,
-  "materialType": null,
-  "buildYear": 1966,
-  "address": "Москва, СВАО, р-н Марьина роща, м. Марьина Роща, улица 4-я Марьиной рощи, 8",
-  "okrug": "СВАО",
-  "lat": 55.79599,
-  "lng": 37.62448,
-  "rejected": false,
-  "components": {
-   "location": 0.9154756037456875,
-   "building": 0.5,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.8219047619047619
-  },
-  "bonus": 0.1,
-  "flags": [
-   "owner"
-  ],
-  "tags": [
-   "собственник"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.8838095238095238,
-  "total": 0.934797413691943,
-  "noise": {
-   "noise_dist": 11290.46823459108,
-   "rail_dist": 390.3754263723343,
-   "primary_dist": 353.72311540995145
-  },
-  "move_in_cost": 156600.0,
-  "metro": "Марьина Роща",
-  "metro_walk": 7,
-  "job_p50": 41.02975845336914,
-  "job_share30": 0.20828614571536425,
-  "park_walk": 16.817403462237092,
-  "culture25": 37,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 336019501,
-  "fullUrl": "https://www.cian.ru/rent/flat/336019501/?context=4.wCSgKj_XeOE.INd_TjVRwyJnPIqFcBeofEj5fnamRMn4zbMUAnrz6fayNCdL8Ku3wEVOlaVXF8GldJFRae67lhH-ZA&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
-  "price": 65000,
-  "totalArea": "42.0",
-  "floorNumber": 7,
-  "floorsCount": 14,
-  "materialType": "brick",
-  "buildYear": 1971,
-  "address": "Москва, САО, р-н Аэропорт, м. Петровский Парк, улица Верхняя Масловка, 27К2",
-  "okrug": "САО",
-  "lat": 55.79766,
-  "lng": 37.557152,
-  "rejected": false,
-  "components": {
-   "location": 0.7782158698866437,
-   "building": 1.0,
-   "floor": 0.85,
-   "quiet": 1.0,
-   "price_value": 0.6370047299149986
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 0.8269810803400055,
-  "total": 0.9347765004433249,
-  "noise": {
-   "noise_dist": 10602.508755635996,
-   "rail_dist": 806.9244679265568,
-   "primary_dist": 721.449483320511
-  },
-  "move_in_cost": 195000.0,
-  "metro": "Петровский Парк",
-  "metro_walk": 9,
-  "job_p50": 47.78653335571289,
-  "job_share30": 0.11325028312570778,
-  "park_walk": 2.618335447311221,
-  "culture25": 7,
-  "tier": "B",
-  "duplicates": []
- },
- {
   "cianId": 335551970,
-  "fullUrl": "https://www.cian.ru/rent/flat/335551970/?context=4.AQTBKAWM2_4.ZaJlio4AGFeSTiM2-8XIlBo4Jmsx6F3pxN77_hLUxhRqL6boRCUqYqHyPP_bNcs48Lvnpg9q_3tn_Q&mlSearchSessionGuid=11d1fe035181602b4868ff262f3d2b2e",
+  "fullUrl": "https://www.cian.ru/rent/flat/335551970/?context=4.cblKP_bdCAo.ybbJMR8r46Qh1otKoNXkzASYxQKP4jt7br-klq7gzGwNC_PzacIamwSXtH1QIw7hfA2ZXmAy7E0FUw&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "37.0",
   "floorNumber": 6,
@@ -2704,7 +3342,7 @@
    "building": 0.75,
    "floor": 0.85,
    "quiet": 0.7,
-   "price_value": 0.7596566080306416
+   "price_value": 0.7588073017836579
   },
   "bonus": 0.1,
   "flags": [],
@@ -2713,8 +3351,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 0.8470878535917192,
-  "total": 0.9314951461502387,
+  "price_ratio": 0.8504850785796544,
+  "total": 0.9313252849008419,
   "noise": {
    "noise_dist": 11086.135356733497,
    "rail_dist": 1271.07007703068,
@@ -2731,137 +3369,93 @@
   "duplicates": [
    {
     "cianId": 335258355,
-    "fullUrl": "https://www.cian.ru/rent/flat/335258355/?context=4.kfU691X8sjk.lUvl4oTe9bzxRy-zoedLvAcoWTVURZEtYn5SzmPO79Gm7mHBWoDz2jQr5EXC_BVFA3hSEKtwKs90_g&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb"
+    "fullUrl": "https://www.cian.ru/rent/flat/335258355/?context=4.LgrrGBcT7oo._Pv9qCSIX92b51AkiVF2kSG3ih03ECCnx41DaZYErPpTAodkDXkLfmV8-YsNeNZwLatkd22eOxOXzA&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b"
    }
   ]
  },
  {
-  "cianId": 335469159,
-  "fullUrl": "https://www.cian.ru/rent/flat/335469159/?context=4.Or9UHNPa3g0.SLPpt-oYT0FCSQ-rlgsDXBv_oeFiNfcyH7_rBdVR2G_FrGXMVSR7d5bbJyTY8fw3At8DYcPIn8CAVQ&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
-  "price": 65000,
-  "totalArea": "40.0",
-  "floorNumber": 2,
-  "floorsCount": 14,
-  "materialType": "block",
-  "buildYear": 1970,
-  "address": "Москва, СВАО, р-н Марьина роща, м. Марьина Роща, Октябрьская улица, 40",
-  "okrug": "СВАО",
-  "lat": 55.791683,
-  "lng": 37.614123,
-  "rejected": false,
-  "components": {
-   "location": 0.9608181370133071,
-   "building": 0.6,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.6203303097991734
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 0.8936787608033067,
-  "total": 0.9303524099144922,
-  "noise": {
-   "noise_dist": 11870.396451416604,
-   "rail_dist": 984.1952773891796,
-   "primary_dist": 146.69129465069437
-  },
-  "move_in_cost": 162500.0,
-  "metro": "Марьина Роща",
-  "metro_walk": 5,
-  "job_p50": 42.88945388793945,
-  "job_share30": 0.1482634956587391,
-  "park_walk": 8.15557549952605,
-  "culture25": 61,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 336087612,
-  "fullUrl": "https://www.cian.ru/rent/flat/336087612/?context=4._Q__ZDdHATc.kck62TK5M7UC8h2S4qGhP_r3_ohTgLlC6TFprZLfdUUBm7YHH5toO620Iwl3un4T0MS8lD2ppGSTOg&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
-  "price": 68000,
-  "totalArea": "60.0",
-  "floorNumber": 5,
-  "floorsCount": 9,
-  "materialType": "brick",
-  "buildYear": 1958,
-  "address": "Москва, ЮАО, р-н Даниловский, м. Автозаводская, улица Лобанова, 2/21",
-  "okrug": "ЮАО",
-  "lat": 55.702343,
-  "lng": 37.658967,
-  "rejected": false,
-  "components": {
-   "location": 0.6143420404139971,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 0.9,
-   "price_value": 0.5930935363579863
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "парк",
-   "кирпич",
-   "stalinka"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.7776258545680547,
-  "total": 0.9286384214164962,
-  "noise": {
-   "noise_dist": 10688.007575880196,
-   "rail_dist": 131.55610723300043,
-   "primary_dist": 143.77362625135262
-  },
-  "move_in_cost": 183600.0,
-  "metro": "Автозаводская",
-  "metro_walk": 6,
-  "job_p50": 47.38254928588867,
-  "job_share30": 0.0595507738769347,
-  "park_walk": 18.157362593760475,
-  "culture25": 13,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 307887198,
-  "fullUrl": "https://www.cian.ru/rent/flat/307887198/?context=4.vOOopW4bPm0._FZUe-nQa9qxpT3eO4irfvXLu7efaXDql0aoBLvS9ei0ceE2OdaHj7ndpWAj6JQniqtli7TEPu6J9w&mlSearchSessionGuid=1b45dca71eabae8427589a8da018c8d4",
+  "cianId": 336531296,
+  "fullUrl": "https://www.cian.ru/rent/flat/336531296/?context=4.lQeyxPl_us0.-WQBYwa9Q7C6Pmegm2EaHVSt80b5GyRg1JKMJWLg_s5305J_L1PRkq8gG5_411FMgONeh_8w9sWLfw&mlSearchSessionGuid=1dbe0a3c5449b57a59774a2419cdefbc",
   "price": 55000,
-  "totalArea": "36.0",
-  "floorNumber": 8,
-  "floorsCount": 9,
-  "materialType": "brick",
-  "buildYear": 1963,
-  "address": "Москва, ВАО, р-н Перово, м. Шоссе Энтузиастов, улица Плеханова, 3К2",
+  "totalArea": "44.0",
+  "floorNumber": 4,
+  "floorsCount": 5,
+  "materialType": "monolith",
+  "buildYear": 1961,
+  "address": "Москва, ВАО, р-н Перово, м. Перово, 2-я Владимирская улица, 41К1",
   "okrug": "ВАО",
-  "lat": 55.757734,
-  "lng": 37.758626,
+  "lat": 55.751893,
+  "lng": 37.784767,
   "rejected": false,
   "components": {
-   "location": 0.7598570724494825,
-   "building": 1.0,
-   "floor": 0.85,
+   "location": 0.8531296205027107,
+   "building": 0.75,
+   "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.8802376824158358
+   "price_value": 0.9020480225988701
   },
   "bonus": 0.05,
   "flags": [],
   "tags": [],
   "soft_reject": null,
-  "price_ratio": 0.9790492703366567,
-  "total": 0.9269975118404861,
+  "price_ratio": 0.8918079096045197,
+  "total": 0.9290049716957228,
   "noise": {
-   "noise_dist": 5237.596103223912,
-   "rail_dist": 771.1078962061566,
-   "primary_dist": 176.92988250786013
+   "noise_dist": 3582.7919287702575,
+   "rail_dist": 1486.8715466141252,
+   "primary_dist": 1337.0815434487727
   },
   "move_in_cost": 165000.0,
-  "metro": "Шоссе Энтузиастов",
-  "metro_walk": 9,
-  "job_p50": 49.44184494018555,
-  "job_share30": 0.020951302378255942,
-  "park_walk": 2.358367928723887,
-  "culture25": 4,
+  "metro": "Перово",
+  "metro_walk": 2,
+  "job_p50": 45.33203887939453,
+  "job_share30": 0.09097772744431859,
+  "park_walk": 13.081050467409458,
+  "culture25": 14,
+  "tier": "A",
+  "duplicates": []
+ },
+ {
+  "cianId": 336617331,
+  "fullUrl": "https://www.cian.ru/rent/flat/336617331/?context=4.nFxDfVdyX0E.PsEmcnHjCA8EjY4OfPaHW4iVDawvNoA9q2-A8cuP4znZBkzSesgj9RFtEHq0AhlTsiDqbT9SeHj2pQ&mlSearchSessionGuid=c1e9791561b42e36f2f0591e899c9b8f",
+  "price": 60000,
+  "totalArea": "40.0",
+  "floorNumber": 6,
+  "floorsCount": 9,
+  "materialType": "brick",
+  "buildYear": 1965,
+  "address": "Москва, САО, р-н Аэропорт, м. Аэропорт, Авиационный переулок, 8",
+  "okrug": "САО",
+  "lat": 55.800651,
+  "lng": 37.540308,
+  "rejected": false,
+  "components": {
+   "location": 0.7121734844751109,
+   "building": 1.0,
+   "floor": 0.85,
+   "quiet": 1.0,
+   "price_value": 0.7183715766099186
+  },
+  "bonus": 0.1,
+  "flags": [
+   "owner"
+  ],
+  "tags": [],
+  "soft_reject": null,
+  "price_ratio": 1.0122279792746114,
+  "total": 0.9279350348882724,
+  "noise": {
+   "noise_dist": 9506.467136972351,
+   "rail_dist": 911.3749673257389,
+   "primary_dist": 332.26214869034226
+  },
+  "move_in_cost": 90000.0,
+  "metro": "Аэропорт",
+  "metro_walk": 7,
+  "job_p50": 49.03007888793945,
+  "job_share30": 0.11428841072102679,
+  "park_walk": 13.384570716694325,
+  "culture25": 7,
   "tier": "A",
   "duplicates": []
  },
@@ -2884,7 +3478,7 @@
    "building": 1.0,
    "floor": 0.75,
    "quiet": 1.0,
-   "price_value": 0.8740589304257529
+   "price_value": 0.8767030627661035
   },
   "bonus": 0.0,
   "flags": [],
@@ -2893,8 +3487,8 @@
    "кирпич"
   ],
   "soft_reject": null,
-  "price_ratio": 1.0037642782969884,
-  "total": 0.9265244524232482,
+  "price_ratio": 0.9931877489355857,
+  "total": 0.9270532788913184,
   "noise": {
    "noise_dist": 13632.788252598653,
    "rail_dist": 952.419437723282,
@@ -2911,141 +3505,54 @@
   "duplicates": []
  },
  {
-  "cianId": 336019409,
-  "fullUrl": "https://www.cian.ru/rent/flat/336019409/?context=4.bMFoCMRVNUc.lw3sjtt6CdA1s_ArWRUvhUnWSeVV0HlO0PDmakznJ1RjVgkexgp1tAZLPmSmfj71Kt6DQ4IDAGm_HQ&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 60000,
-  "totalArea": "40.0",
-  "floorNumber": 4,
-  "floorsCount": 14,
+  "cianId": 336087612,
+  "fullUrl": "https://www.cian.ru/rent/flat/336087612/?context=4._Q__ZDdHATc.kck62TK5M7UC8h2S4qGhP_r3_ohTgLlC6TFprZLfdUUBm7YHH5toO620Iwl3un4T0MS8lD2ppGSTOg&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
+  "price": 68000,
+  "totalArea": "60.0",
+  "floorNumber": 5,
+  "floorsCount": 9,
   "materialType": "brick",
-  "buildYear": 1973,
-  "address": "Москва, СВАО, р-н Бутырский, м. Тимирязевская, улица Яблочкова, 6А",
-  "okrug": "СВАО",
-  "lat": 55.815726,
-  "lng": 37.582421,
+  "buildYear": 1958,
+  "address": "Москва, ЮАО, р-н Даниловский, м. Автозаводская, улица Лобанова, 2/21",
+  "okrug": "ЮАО",
+  "lat": 55.702343,
+  "lng": 37.658967,
   "rejected": false,
   "components": {
-   "location": 0.6306062099556432,
+   "location": 0.6143420404139971,
    "building": 1.0,
    "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.7785714285714286
+   "quiet": 0.9,
+   "price_value": 0.5825055187637969
   },
   "bonus": 0.1,
   "flags": [],
   "tags": [
-   "кирпич"
+   "парк",
+   "кирпич",
+   "stalinka"
   ],
   "soft_reject": null,
-  "price_ratio": 0.7714285714285715,
-  "total": 0.9264264591987608,
+  "price_ratio": 0.8199779249448124,
+  "total": 0.9265208178976583,
   "noise": {
-   "noise_dist": 9765.2031850816,
-   "rail_dist": 264.4688200040857,
-   "primary_dist": 345.4309536982871
+   "noise_dist": 10688.007575880196,
+   "rail_dist": 131.55610723300043,
+   "primary_dist": 143.77362625135262
   },
-  "move_in_cost": 150000.0,
-  "metro": "Тимирязевская",
-  "metro_walk": 9,
-  "job_p50": 47.810909271240234,
-  "job_share30": 0.10475651189127973,
-  "park_walk": 15.409511450406319,
-  "culture25": 5,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 295837800,
-  "fullUrl": "https://www.cian.ru/rent/flat/295837800/?context=4.M3SWI5jLCO4.27CNF163W454G9JuIml9e5DvW9U5N4uN8ONsWp25vIHoSS6uKJ8tBguNFatlH4wE2EoH0EaDOELKiw&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
-  "price": 70000,
-  "totalArea": "36.0",
-  "floorNumber": 3,
-  "floorsCount": 12,
-  "materialType": "block",
-  "buildYear": 1967,
-  "address": "Москва, САО, р-н Сокол, м. Сокол, Песчаная улица, 4",
-  "okrug": "САО",
-  "lat": 55.802978,
-  "lng": 37.514976,
-  "rejected": false,
-  "components": {
-   "location": 0.9050024642681124,
-   "building": 0.6,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.49629967558799676
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "тихий",
-   "soviet_ensemble"
-  ],
-  "soft_reject": null,
-  "price_ratio": 1.014801297648013,
-  "total": 0.9260107976114387,
-  "noise": {
-   "noise_dist": 7900.4237417260665,
-   "rail_dist": 1089.6194285882902,
-   "primary_dist": 170.04523664214776
-  },
-  "move_in_cost": 182000.0,
-  "metro": "Сокол",
-  "metro_walk": 2,
-  "job_p50": 47.215518951416016,
-  "job_share30": 0.08295583238958099,
-  "park_walk": 3.849166025607343,
-  "culture25": 22,
+  "move_in_cost": 183600.0,
+  "metro": "Автозаводская",
+  "metro_walk": 6,
+  "job_p50": 47.38254928588867,
+  "job_share30": 0.0595507738769347,
+  "park_walk": 18.157362593760475,
+  "culture25": 13,
   "tier": "B",
   "duplicates": []
  },
  {
-  "cianId": 323732128,
-  "fullUrl": "https://www.cian.ru/rent/flat/323732128/?context=4.2EOZ4ZGRxVE.2hTCVcmpITIY5Jv73zrclIIa5ahndUObU47CtcRTZBQcmQbyH7osYAYttkQLrxNn133wpqs8X0cX0A&mlSearchSessionGuid=5cff628b52b0499521578da481d7d9d6",
-  "price": 55000,
-  "totalArea": "38.0",
-  "floorNumber": 8,
-  "floorsCount": 17,
-  "materialType": "panel",
-  "buildYear": 1990,
-  "address": "Москва, ЮВАО, р-н Лефортово, м. Лефортово, Солдатский переулок, 8",
-  "okrug": "ЮВАО",
-  "lat": 55.766668,
-  "lng": 37.703856,
-  "rejected": false,
-  "components": {
-   "location": 0.9561360275998029,
-   "building": 0.35,
-   "floor": 0.85,
-   "quiet": 1.0,
-   "price_value": 0.9285714285714286
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "парк"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.7857142857142857,
-  "total": 0.9253618953742168,
-  "noise": {
-   "noise_dist": 8693.39943005807,
-   "rail_dist": 927.7227219608147,
-   "primary_dist": 699.005513124521
-  },
-  "move_in_cost": 151000.0,
-  "metro": "Лефортово",
-  "metro_walk": 4,
-  "job_p50": 40.57756423950195,
-  "job_share30": 0.18327670819177033,
-  "park_walk": 2.9805977457154373,
-  "culture25": 15,
-  "tier": "A",
-  "duplicates": []
- },
- {
   "cianId": 336463009,
-  "fullUrl": "https://www.cian.ru/rent/flat/336463009/?context=4.SI87glPSheQ.p55rHwIOTk4O4FhL9EzR03vuoQGU_wG-ngutlSTvRfjpcV9h7Rhn6GlNZZN78Son3znDxdVLiMDR7g&mlSearchSessionGuid=c1e9791561b42e36f2f0591e899c9b8f",
+  "fullUrl": "https://www.cian.ru/rent/flat/336463009/?context=4.Y8KDxgaIYNU.Hu0bZ1NYx2a6rKNC5F7LKaehotzTNPhYlhuxt6beV6BB_cRxYvmI0squSQOwrkr5DqieLhxdFdLVnw&mlSearchSessionGuid=2c4863b55d858f41182e8bb8241b146e",
   "price": 60000,
   "totalArea": "31.0",
   "floorNumber": 2,
@@ -3088,530 +3595,47 @@
   "duplicates": []
  },
  {
-  "cianId": 335552862,
-  "fullUrl": "https://www.cian.ru/rent/flat/335552862/?context=4.k2g970WEvbY.-xxKUr1I2w_uzb4xPu15rwZTprEz4NXcWvIOlu8ndFvzLCj209GBESZ-OsEqLBZXDG3TkRRzDThAzw&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 60000,
-  "totalArea": "34.6",
-  "floorNumber": 3,
-  "floorsCount": 5,
-  "materialType": "brick",
-  "buildYear": 1961,
-  "address": "Москва, САО, р-н Савеловский, м. Гражданская, улица Юннатов, 8А",
-  "okrug": "САО",
-  "lat": 55.799902,
-  "lng": 37.561751,
-  "rejected": false,
-  "components": {
-   "location": 0.7900443568260227,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.7392539761329091
-  },
-  "bonus": 0.05,
-  "flags": [],
-  "tags": [
-   "парк",
-   "кирпич"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.9286983811826492,
-  "total": 0.9243663201156899,
-  "noise": {
-   "noise_dist": 10842.198731700808,
-   "rail_dist": 580.4197432393815,
-   "primary_dist": 1094.9646831729688
-  },
-  "move_in_cost": 162000.0,
-  "metro": "Гражданская",
-  "metro_walk": 8,
-  "job_p50": 47.67317199707031,
-  "job_share30": 0.11155152887882218,
-  "park_walk": 4.624395096779355,
-  "culture25": 7,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 335874231,
-  "fullUrl": "https://www.cian.ru/rent/flat/335874231/?context=4.lucCEGvLh1M.CKZiq74qwn404pDyd1NGI2QT1FUXyyW5XGmlx4MS9TYrgelsk5_X__PD55HxEivzIHmgCYJXC8cfTg&mlSearchSessionGuid=253efe7d87715735c3b1753a2b66be0b",
-  "price": 60000,
-  "totalArea": "29.0",
-  "floorNumber": 3,
-  "floorsCount": 5,
-  "materialType": "brick",
-  "buildYear": 1964,
-  "address": "Москва, ВАО, р-н Перово, м. Перово, 2-я Владимирская улица, 34",
-  "okrug": "ВАО",
-  "lat": 55.751361,
-  "lng": 37.783383,
-  "rejected": false,
-  "components": {
-   "location": 0.8531296205027107,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.6244591989719426
-  },
-  "bonus": 0.05,
-  "flags": [
-   "owner"
-  ],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 1.3878774898265154,
-  "total": 0.9234872069703374,
-  "noise": {
-   "noise_dist": 3667.5663300496,
-   "rail_dist": 1460.3451374404399,
-   "primary_dist": 1364.9368145414621
-  },
-  "move_in_cost": 90000.0,
-  "metro": "Перово",
-  "metro_walk": 1,
-  "job_p50": 45.33203887939453,
-  "job_share30": 0.09097772744431859,
-  "park_walk": 13.081050467409458,
-  "culture25": 14,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 336183001,
-  "fullUrl": "https://www.cian.ru/rent/flat/336183001/?context=4.4Mbfti3ZcP4.aUa_9ynuQwikIzxJPuVGv6sXLn3DPkXKyk0WwhA1YnhM4s4idpNEcXHGtBaob5XevvoINQaIHw78PQ&mlSearchSessionGuid=9c3955d165f46d5614604e0174a371c2",
-  "price": 40000,
-  "totalArea": "30.0",
-  "floorNumber": 7,
-  "floorsCount": 9,
-  "materialType": "brick",
-  "buildYear": 1966,
-  "address": "Москва, ЮАО, р-н Нагатинский затон, м. Коломенская, проспект Андропова, 29К2",
-  "okrug": "ЮАО",
-  "lat": 55.676042,
-  "lng": 37.666566,
-  "rejected": false,
-  "components": {
-   "location": 0.8458600295712173,
-   "building": 1.0,
-   "floor": 0.85,
-   "quiet": 1.0,
-   "price_value": 0.9349352051835853
-  },
-  "bonus": 0.0,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 0.7602591792656587,
-  "total": 0.9180380513866431,
-  "noise": {
-   "noise_dist": 9681.538736400322,
-   "rail_dist": 2587.779316780321,
-   "primary_dist": 167.91626106589763
-  },
-  "move_in_cost": 112000.0,
-  "metro": "Коломенская",
-  "metro_walk": 3,
-  "job_p50": 48.21701431274414,
-  "job_share30": 0.04312948282370707,
-  "park_walk": 2.8615595378257663,
-  "culture25": 14,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 336112993,
-  "fullUrl": "https://www.cian.ru/rent/flat/336112993/?context=4.9qb7oG2YM7w.-kwZx876FMputhWw5_-12NhcL0yW7dfCfBQ_IuX3Et7hi1P0Vr2VQP2DeCQyrfkvBTGFC5qZjjCLkA&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
+  "cianId": 295837800,
+  "fullUrl": "https://www.cian.ru/rent/flat/295837800/?context=4.Xlq2ivDBNNA.4rOhtaSLLD8OtE9SZQc97seGipG19R585ABZZWvs0Ux9-W9-UD1HRyC3ZJpqIoYpHMz-knDLSxn-3g&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
   "price": 70000,
-  "totalArea": "35.0",
-  "floorNumber": 6,
-  "floorsCount": 11,
-  "materialType": "brick",
-  "buildYear": 1963,
-  "address": "Москва, ЮЗАО, р-н Гагаринский, м. Ленинский проспект, проспект 60-летия Октября, 3К3",
-  "okrug": "ЮЗАО",
-  "lat": 55.70562,
-  "lng": 37.582574,
+  "totalArea": "36.0",
+  "floorNumber": 3,
+  "floorsCount": 12,
+  "materialType": "block",
+  "buildYear": 1967,
+  "address": "Москва, САО, р-н Сокол, м. Сокол, Песчаная улица, 4",
+  "okrug": "САО",
+  "lat": 55.802978,
+  "lng": 37.514976,
   "rejected": false,
   "components": {
-   "location": 0.9802858551010349,
-   "building": 1.0,
-   "floor": 0.85,
+   "location": 0.9050024642681124,
+   "building": 0.6,
+   "floor": 1.0,
    "quiet": 1.0,
-   "price_value": 0.49809160305343514
+   "price_value": 0.4904661016949153
   },
-  "bonus": 0.0,
+  "bonus": 0.1,
   "flags": [],
   "tags": [
+   "тихий",
    "soviet_ensemble"
   ],
   "soft_reject": null,
-  "price_ratio": 1.0076335877862594,
-  "total": 0.9177183698960492,
+  "price_ratio": 1.0381355932203389,
+  "total": 0.9248440828328224,
   "noise": {
-   "noise_dist": 10495.894146479766,
-   "rail_dist": 272.9226525204976,
-   "primary_dist": 108.11763883722554
+   "noise_dist": 7900.4237417260665,
+   "rail_dist": 1089.6194285882902,
+   "primary_dist": 170.04523664214776
   },
-  "move_in_cost": 189000.0,
-  "metro": "Ленинский проспект",
-  "metro_walk": 4,
-  "job_p50": 39.24364471435547,
-  "job_share30": 0.21555303888259694,
-  "park_walk": 8.276680449185447,
-  "culture25": 92,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 334390212,
-  "fullUrl": "https://www.cian.ru/rent/flat/334390212/?context=4.R6_Swl2hlvo.98bR3GNs82VhKQNMmaa2pT6wQmvrwf55rHZ-fz12PYK838wD5tAlIK7QEohCKWNWA0JzF_EMpdkiiQ&mlSearchSessionGuid=af60fe5eef3faa1987c0e177e4c735cb",
-  "price": 69000,
-  "totalArea": "38.0",
-  "floorNumber": 4,
-  "floorsCount": 17,
-  "materialType": "monolithBrick",
-  "buildYear": 1997,
-  "address": "Москва, САО, р-н Бескудниковский, м. Верхние Лихоборы, Бескудниковский бульвар, 4",
-  "okrug": "САО",
-  "lat": 55.856977,
-  "lng": 37.56503,
-  "rejected": false,
-  "components": {
-   "location": 0.7966978807294234,
-   "building": 0.9,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.5413680718301567
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [
-   "парк",
-   "кирпич"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.9095277126793734,
-  "total": 0.9171178726213295,
-  "noise": {
-   "noise_dist": 5707.2321935527025,
-   "rail_dist": 528.5120940013103,
-   "primary_dist": 238.64520126687222
-  },
-  "move_in_cost": 173500.0,
-  "metro": "Верхние Лихоборы",
-  "metro_walk": 5,
-  "job_p50": 47.61184310913086,
-  "job_share30": 0.08333333333333333,
-  "park_walk": 13.496602824533966,
-  "culture25": 6,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 335142264,
-  "fullUrl": "https://www.cian.ru/rent/flat/335142264/?context=4.KTSPvyEeVv0.siV2kkYnww1LhnObOu6EfuxKzFfDxVZNnTsGLxZQNAA9uD28QTAESJJKC_BBOIXCyiDuMexIozhFbg&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
-  "price": 67000,
-  "totalArea": "38.0",
-  "floorNumber": 4,
-  "floorsCount": 9,
-  "materialType": "block",
-  "buildYear": 1965,
-  "address": "Москва, ВАО, р-н Перово, м. Перово, 2-я Владимирская улица, 38/18",
-  "okrug": "ВАО",
-  "lat": 55.750211,
-  "lng": 37.784192,
-  "rejected": false,
-  "components": {
-   "location": 0.8531296205027107,
-   "building": 0.6,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.4917703687184062
-  },
-  "bonus": 0.15000000000000002,
-  "flags": [
-   "owner"
-  ],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 1.2579185251263751,
-  "total": 0.9169494409196299,
-  "noise": {
-   "noise_dist": 3613.4750007717234,
-   "rail_dist": 1322.8963738250893,
-   "primary_dist": 1502.3099208937347
-  },
-  "move_in_cost": 167500.0,
-  "metro": "Перово",
+  "move_in_cost": 182000.0,
+  "metro": "Сокол",
   "metro_walk": 2,
-  "job_p50": 45.33203887939453,
-  "job_share30": 0.09097772744431859,
-  "park_walk": 13.081050467409458,
-  "culture25": 14,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 335382594,
-  "fullUrl": "https://www.cian.ru/rent/flat/335382594/?context=4.DZT2IVjkJhM.CVcy8kenszhu5U-wqJnGP4FR8i3U021-f6FSMNxvj1hbNWdoDmclQdmC58MPZX-wOUBcbfQl7akDkw&mlSearchSessionGuid=fd633ee1d655543f333bb7a6d7479555",
-  "price": 65000,
-  "totalArea": "38.0",
-  "floorNumber": 5,
-  "floorsCount": 12,
-  "materialType": "block",
-  "buildYear": 1965,
-  "address": "Москва, СВАО, р-н Алексеевский, м. Алексеевская, Новоалексеевская улица, 7",
-  "okrug": "СВАО",
-  "lat": 55.808179,
-  "lng": 37.641998,
-  "rejected": false,
-  "components": {
-   "location": 0.9420896993592903,
-   "building": 0.6,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.5817119260918253
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 1.048152295632699,
-  "total": 0.9160737799941167,
-  "noise": {
-   "noise_dist": 9626.765240347693,
-   "rail_dist": 848.0416244025539,
-   "primary_dist": 290.46200129409357
-  },
-  "move_in_cost": 149500.0,
-  "metro": "Алексеевская",
-  "metro_walk": 3,
-  "job_p50": 39.58407974243164,
-  "job_share30": 0.24320498301245738,
-  "park_walk": 16.89492283818755,
-  "culture25": 74,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 336048513,
-  "fullUrl": "https://www.cian.ru/rent/flat/336048513/?context=4.7VnCYrEehKQ._BjkxfuIFYkna3599CXRQgL62r3QbMrK9RwImtiFR_7rZuKOKbRsV-hFgoktKgJmoUqr8EDIZmcAWg&mlSearchSessionGuid=ef6b7d241032b0c555036bcb44ed83f8",
-  "price": 65000,
-  "totalArea": "38.9",
-  "floorNumber": 2,
-  "floorsCount": 5,
-  "materialType": "block",
-  "buildYear": 1960,
-  "address": "Москва, ЦАО, р-н Пресненский, м. Деловой центр, улица Антонова-Овсеенко, 4",
-  "okrug": "ЦАО",
-  "lat": 55.753443,
-  "lng": 37.54012,
-  "rejected": false,
-  "components": {
-   "location": 0.9221291276490883,
-   "building": 0.6,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.6161020671682271
-  },
-  "bonus": 0.1,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 0.9105917313270914,
-  "total": 0.9159656081108263,
-  "noise": {
-   "noise_dist": 10485.359513038688,
-   "rail_dist": 532.1042089187752,
-   "primary_dist": 463.6723282691932
-  },
-  "move_in_cost": 110500.0,
-  "metro": "Деловой центр",
-  "metro_walk": 8,
-  "job_p50": 45.668331146240234,
-  "job_share30": 0.10551151377878444,
-  "park_walk": 7.4925256297500065,
-  "culture25": 27,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 166451433,
-  "fullUrl": "https://www.cian.ru/rent/flat/166451433/?context=4.ekwUvaoekUA.I3bURZYFPsR2tIdqEtc9YGIgeLVNAZLHrOe6YHZRIj6Uvy_5r6FGDUpzLe2WtH6mmXRTFMgun-tyLA&mlSearchSessionGuid=1b45dca71eabae8427589a8da018c8d4",
-  "price": 55000,
-  "totalArea": "30.0",
-  "floorNumber": 5,
-  "floorsCount": 9,
-  "materialType": "brick",
-  "buildYear": 1974,
-  "address": "Москва, ЮАО, р-н Донской, м. Крымская, Загородное шоссе, 15К2",
-  "okrug": "ЮАО",
-  "lat": 55.691379,
-  "lng": 37.604906,
-  "rejected": false,
-  "components": {
-   "location": 0.7395268605224249,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 0.9,
-   "price_value": 0.8565202231520224
-  },
-  "bonus": 0.05,
-  "flags": [],
-  "tags": [
-   "собственник"
-  ],
-  "soft_reject": null,
-  "price_ratio": 1.0739191073919108,
-  "total": 0.9151384458132532,
-  "noise": {
-   "noise_dist": 10789.666731861234,
-   "rail_dist": 102.97852542767492,
-   "primary_dist": 1038.0846505717618
-  },
-  "move_in_cost": 143000.0,
-  "metro": "Крымская",
-  "metro_walk": 2,
-  "job_p50": 44.9701042175293,
-  "job_share30": 0.1104190260475651,
-  "park_walk": 22.7745456349823,
-  "culture25": 14,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 335707273,
-  "fullUrl": "https://www.cian.ru/rent/flat/335707273/?context=4.QRiX6m4VL1c.KDwmRDQDkILK_iVjBLPIa2R7ZHC9C0n-I_D3NQmTgu2SiId6Lpp83zvVZy8tw5mwhr1dmLwXMnwr_Q&mlSearchSessionGuid=1b45dca71eabae8427589a8da018c8d4",
-  "price": 55000,
-  "totalArea": "37.0",
-  "floorNumber": 3,
-  "floorsCount": 8,
-  "materialType": "brick",
-  "buildYear": null,
-  "address": "Москва, ВАО, р-н Соколиная гора, м. Семёновская, Измайловское шоссе, 15",
-  "okrug": "ВАО",
-  "lat": 55.779606,
-  "lng": 37.725262,
-  "rejected": false,
-  "components": {
-   "location": 0.6559881715130607,
-   "building": 1.0,
-   "floor": 1.0,
-   "quiet": 1.0,
-   "price_value": 0.9263603804249684
-  },
-  "bonus": 0.05,
-  "flags": [],
-  "tags": [],
-  "soft_reject": null,
-  "price_ratio": 0.7945584783001264,
-  "total": 0.9148679361145651,
-  "noise": {
-   "noise_dist": 7306.178981612276,
-   "rail_dist": 858.2903899929008,
-   "primary_dist": 1186.6747203515515
-  },
-  "move_in_cost": 148500.0,
-  "metro": "Семёновская",
-  "metro_walk": 8,
-  "job_p50": 46.57353973388672,
-  "job_share30": 0.10475651189127971,
-  "park_walk": 16.834416642946877,
-  "culture25": 3,
-  "tier": "A",
-  "duplicates": []
- },
- {
-  "cianId": 333853846,
-  "fullUrl": "https://www.cian.ru/rent/flat/333853846/?context=4.tu9BuB3jhDw.w1rWREqeXH-G7jwy1SKPgT-xOOW94SRU3oVttxI1cOYg9ORw1WHJb6NBtN6VkZVS79xepdhvEzhhQA&mlSearchSessionGuid=125b786921ce66af7b7758a77aabaaaf",
-  "price": 70000,
-  "totalArea": "53.7",
-  "floorNumber": 8,
-  "floorsCount": 10,
-  "materialType": "brick",
-  "buildYear": 1956,
-  "address": "Москва, СВАО, р-н Останкинский, м. Алексеевская, проспект Мира, 81",
-  "okrug": "СВАО",
-  "lat": 55.801313,
-  "lng": 37.634326,
-  "rejected": false,
-  "components": {
-   "location": 0.7835140463282405,
-   "building": 1.0,
-   "floor": 0.85,
-   "quiet": 0.6,
-   "price_value": 0.526536312849162
-  },
-  "bonus": 0.1,
-  "flags": [
-   "prepayment"
-  ],
-  "tags": [
-   "сталин",
-   "парк",
-   "stalinka"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.893854748603352,
-  "total": 0.9145371787847165,
-  "noise": {
-   "noise_dist": 10514.130786696394,
-   "rail_dist": 117.44239593244143,
-   "primary_dist": 88.94580495855656
-  },
-  "move_in_cost": 175000.0,
-  "metro": "Алексеевская",
-  "metro_walk": 9,
-  "job_p50": 45.96113586425781,
-  "job_share30": 0.1141940354850887,
-  "park_walk": 15.569525577246445,
-  "culture25": 9,
-  "tier": "B",
-  "duplicates": []
- },
- {
-  "cianId": 336387713,
-  "fullUrl": "https://www.cian.ru/rent/flat/336387713/?context=4.IiTW83iv4AQ.U9fVwZTsw_sd1BIMUrZVUglGiwgKbBsSbbwckHAAHAmb8C_vbXCXfZv3LdID5KytquYDGTGCXSP8xg&mlSearchSessionGuid=792fa97973aeed6e4688e83e60bd579b",
-  "price": 68000,
-  "totalArea": "60.0",
-  "floorNumber": 5,
-  "floorsCount": 5,
-  "materialType": "brick",
-  "buildYear": 1958,
-  "address": "Москва, САО, р-н Тимирязевский, м. Окружная, Дмитровское шоссе, 48К1",
-  "okrug": "САО",
-  "lat": 55.844819,
-  "lng": 37.570555,
-  "rejected": false,
-  "components": {
-   "location": 0.6930754066042385,
-   "building": 1.0,
-   "floor": 0.9,
-   "quiet": 0.7,
-   "price_value": 0.584312749003984
-  },
-  "bonus": 0.1,
-  "flags": [
-   "lift_unknown"
-  ],
-  "tags": [
-   "stalinka"
-  ],
-  "soft_reject": null,
-  "price_ratio": 0.8127490039840638,
-  "total": 0.9144389421122803,
-  "noise": {
-   "noise_dist": 6984.609610763208,
-   "rail_dist": 273.6654326327321,
-   "primary_dist": 96.69802291843996
-  },
-  "move_in_cost": 176800.0,
-  "metro": "Окружная",
-  "metro_walk": 7,
-  "job_p50": 48.552982330322266,
-  "job_share30": 0.0511513778784447,
-  "park_walk": 14.161844829171903,
-  "culture25": 6,
+  "job_p50": 47.215518951416016,
+  "job_share30": 0.08295583238958099,
+  "park_walk": 3.849166025607343,
+  "culture25": 22,
   "tier": "B",
   "duplicates": []
  }

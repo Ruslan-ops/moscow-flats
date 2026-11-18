@@ -37,6 +37,8 @@ for path in sorted(glob.glob(f"{ROOT}/data/reviews/recheck/out_*.json")) + sorte
 avito = load("data/report/avito_matches.json")
 conn = sqlite3.connect(f"{ROOT}/data/avito/collector.sqlite")
 checks = {int(c): (s, p, t) for c, s, p, t in conn.execute("SELECT cian_id, status, price, checked FROM cian_checks")}
+sweep_row = conn.execute("SELECT substr(min(updated), 1, 10) FROM tasks WHERE type = 'cian_search' AND meta LIKE '%\"sweep\": true%' AND status = 'done'").fetchone()
+sweep_day = sweep_row[0] if sweep_row and sweep_row[0] else None
 conn.close()
 fresh_snapshot = not os.path.exists(SNAPSHOT)
 shown = {} if fresh_snapshot else {int(k): v for k, v in json.load(open(SNAPSHOT, encoding="utf-8")).items()}
@@ -58,7 +60,11 @@ for cid, rv in reviews.items():
     check = checks.get(cid)
     price = check[1] if check and check[1] else r["price"]
     first = shown.setdefault(cid, {"first": "initial" if fresh_snapshot else stamp, "price": r["price"]})
-    status = "removed" if check and check[0] != "published" else "price" if price != first["price"] else "active"
+    in_sweep = bool(sweep_day and o.get("last_seen", "")[:10] >= sweep_day)
+    chk_removed = bool(check and check[0] != "published" and (not sweep_day or check[2][:10] >= sweep_day or not in_sweep))
+    chk_pub = bool(check and check[0] == "published" and sweep_day and check[2][:10] >= sweep_day)
+    is_removed = chk_removed or bool(sweep_day and not in_sweep and not chk_pub)
+    status = "removed" if is_removed else "price" if price != first["price"] else "active"
     out.append({
         "cianId": cid, "url": o["fullUrl"].split("?")[0], "price": price, "price_was": first["price"] if price != first["price"] else None, "totalArea": float(r["totalArea"]),
         "kitchen": float(o["kitchenArea"]) if o.get("kitchenArea") else None, "rooms": o.get("roomsCount"),
@@ -69,7 +75,7 @@ for cid, rv in reviews.items():
         "place": {"park_walk": r["park_walk"], "culture25": r["culture25"], "job_p50": r["job_p50"], "quiet": r["components"]["quiet"]},
         "realtor": inspect(o, r, rv, extra, today),
         "avito_url": match["url"] if match else None, "photos": o.get("photos") or [],
-        "status": status, "checked": check[2][:10] if check else None, "created": (o.get("creationDate") or "")[:10],
+        "status": status, "checked": (check[2][:10] if check and (not sweep_day or check[2][:10] >= sweep_day) else (o.get("last_seen", "")[:10] if in_sweep else (sweep_day or (check[2][:10] if check else None)))), "created": (o.get("creationDate") or "")[:10],
         "final": 0.5 * r["total"] + 0.5 * (pred - 1) / 4,
     })
 latest = max([v["first"] for v in shown.values() if v["first"] != "initial"], default=None)

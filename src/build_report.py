@@ -140,7 +140,9 @@ def fmt_date(iso):
 
 
 def main():
-    flats = load("data/report/finalists.json")
+    flats = [f for f in load("data/report/finalists.json") if f["status"] != "removed"]
+    for i, f in enumerate(flats, 1):
+        f["rank"] = i
     enrich(flats)
     photos = {}
     for f in flats:
@@ -149,7 +151,7 @@ def main():
             photos[str(f["cianId"])] = b64
         f["address"] = f["address"].split(", м. ")[0].replace("Москва, ", "")
     conn = sqlite3.connect(f"{ROOT}/data/avito/collector.sqlite")
-    seen, checked = conn.execute("SELECT (SELECT max(last_seen) FROM cian_offers), (SELECT max(checked) FROM cian_checks)").fetchone()
+    seen, checked = conn.execute("SELECT (SELECT max(last_seen) FROM cian_offers), max((SELECT max(checked) FROM cian_checks), (SELECT max(updated) FROM tasks WHERE type = 'cian_search' AND meta LIKE '%\"sweep\": true%' AND status = 'done'))").fetchone()
     conn.close()
     meta = {"hubs": [h for h, _ in HUBS], "seen": fmt_date(seen), "checked": fmt_date(checked), "built": datetime.now().strftime("%d.%m.%Y")}
     data = json.dumps({"flats": flats, "map": map_layers(flats), "meta": meta}, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
